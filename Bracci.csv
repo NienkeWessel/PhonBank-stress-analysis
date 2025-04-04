@@ -1,0 +1,1306 @@
+Name,Age,word,model,realization,rep_model,rep_realization
+3028,P3Y8M0DT0H0M0S,Jackett,ˈʒɑkæt,ˈʒɑkæt,"[True, False]","[True, False]"
+3028,P3Y8M0DT0H0M0S,Hand,ˈhɑnt,ˈhɑnt,[True],[True]
+3028,P3Y8M0DT0H0M0S,Forschett,ˈfɔʁʃæt,ˈfɔʁʃæt,"[True, False]","[True, False]"
+3028,P3Y8M0DT0H0M0S,Posch,ˈpoʃ,ˈpoʃ,[True],[True]
+3028,P3Y8M0DT0H0M0S,Lut,ˈluːt,ˈluːt,[True],[True]
+3028,P3Y8M0DT0H0M0S,Stull,ˈʃtul,ˈʃtul,[True],[True]
+3028,P3Y8M0DT0H0M0S,Plover,ˈploːvɐ,ˈploːvɐ,"[True, False]","[True, False]"
+3028,P3Y8M0DT0H0M0S,Sonn,ˈzon,ˈzon,[True],[True]
+3028,P3Y8M0DT0H0M0S,Haus,ˈhaːʊs,ˈhaːʊs,[True],[True]
+3028,P3Y8M0DT0H0M0S,Taucher,ˈtɑʊxɐ,ˈtɑʊxɐ,"[True, False]","[True, False]"
+3028,P3Y8M0DT0H0M0S,rout,ˈʀəʊt,ˈʀəʊt,[True],[True]
+3028,P3Y8M0DT0H0M0S,kleng,ˈklæŋ,ˈklæŋ,[True],[True]
+3028,P3Y8M0DT0H0M0S,Spann,ˈʃpɑn,ˈʃpɑn,[True],[True]
+3028,P3Y8M0DT0H0M0S,Telefon,ˈtələfoːn,ˈtələfoːn,"[True, False, False]","[True, False, False]"
+3028,P3Y8M0DT0H0M0S,Jong,ˈjoŋ,ˈjoŋ,[True],[True]
+3028,P3Y8M0DT0H0M0S,Taass,ˈtaːs,ˈtaːʃ,[True],[True]
+3028,P3Y8M0DT0H0M0S,Kaz,ˈkaːʦ,ˈkaːʦ,[True],[True]
+3028,P3Y8M0DT0H0M0S,Hues,ˈhuəs,ˈhuəs,[True],[True]
+3028,P3Y8M0DT0H0M0S,Schwanz,ˈʃwɑnʦ,ˈʃwɑnʦ,[True],[True]
+3028,P3Y8M0DT0H0M0S,Tromm,ˈtʀom,ˈtʀom,[True],[True]
+3028,P3Y8M0DT0H0M0S,Motorrad,ˈmotoʀaːt,ˈmotoʀaːt,"[True, False, False]","[True, False, False]"
+3028,P3Y8M0DT0H0M0S,Nascht,ˈnɑʃt,ˈnɑʃt,[True],[True]
+3028,P3Y8M0DT0H0M0S,Zitroun,ʦɪˈtʀəʊn,ʦɪntʀəʊn,"[False, True]","[False, False]"
+3028,P3Y8M0DT0H0M0S,Schleek,ˈʃleːk,ˈʃleːk,[True],[True]
+3028,P3Y8M0DT0H0M0S,Ruʦch,ˈʀutʃ,ˈʀutʃ,[True],[True]
+3028,P3Y8M0DT0H0M0S,Becher,ˈbæɕɐ,ˈbæɕɐ,"[True, False]","[True, False]"
+3028,P3Y8M0DT0H0M0S,Waasser,ˈvaːsɐ,ˈvaːsɐ,"[True, False]","[True, False]"
+3028,P3Y8M0DT0H0M0S,Zebra,ˈʦeːbʀaː,ˈzebʀa,"[True, False]","[True, False]"
+3028,P3Y8M0DT0H0M0S,Bréif,ˈbʀɜɪf,ˈbʀɜɪf,[True],[True]
+3028,P3Y8M0DT0H0M0S,Knäpp,ˈknæp,ˈknæp,[True],[True]
+3028,P3Y8M0DT0H0M0S,dräi,ˈdʀæːɪ,ˈdʀæːɪ,[True],[True]
+3028,P3Y8M0DT0H0M0S,Fësch,ˈfəʃ,ˈfəʃ,[True],[True]
+3028,P3Y8M0DT0H0M0S,Mëllech,ˈmələɕ,ˈmələs,"[True, False]","[True, False]"
+3028,P3Y8M0DT0H0M0S,Police,ˈpolɪs,ˈpolɪs,"[True, False]","[True, False]"
+3028,P3Y8M0DT0H0M0S,Fläsch,ˈflæʃ,ˈflæʃ,[True],[True]
+3028,P3Y8M0DT0H0M0S,Krokodill,kʀɔkoˈdɪl,kʀɔkoˈdɪl,"[False, False, True]","[False, False, True]"
+3028,P3Y8M0DT0H0M0S,gréng,ˈgʀeŋ,ˈgʀeŋ,[True],[True]
+3028,P3Y8M0DT0H0M0S,Elefant,ələˈfɑnt,eleˈfant,"[False, False, True]","[False, False, True]"
+3028,P3Y8M0DT0H0M0S,Blumm,ˈblum,ˈblum,[True],[True]
+3028,P3Y8M0DT0H0M0S,Gespenst,gəˈʃpænst,gəˈʃpænst,"[False, True]","[False, True]"
+3028,P3Y8M0DT0H0M0S,Bagger,ˈbɑgɐ,ˈbɑgɐ,"[True, False]","[True, False]"
+3028,P3Y8M0DT0H0M0S,Banane,bɑˈnɑn,bɑˈnɑn,"[False, True]","[False, True]"
+3028,P3Y8M0DT0H0M0S,Draach,ˈdʀaːx,ˈʀaːχ,[True],[True]
+3028,P3Y8M0DT0H0M0S,giel,ˈgiəl,ˈgiəl,[True],[True]
+3028,P3Y8M0DT0H0M0S,Gebuerʦdag,gəˈbuːɐʦdaːx,gəˈbuːɐʦdaːx,"[False, True, False]","[False, True, False]"
+3028,P3Y8M0DT0H0M0S,Päiperlek,ˈpæːɪpɐlek,ˈpæːɪpɐlek,"[True, False, False]","[True, False, False]"
+3028,P3Y8M0DT0H0M0S,Bild,ˈbilt,ˈbilt,[True],[True]
+3028,P3Y8M0DT0H0M0S,Rank,ˈʀɑŋk,ˈʀɑŋk,[True],[True]
+3028,P3Y8M0DT0H0M0S,Trampolin,ˈtʀɑmpoːlɪn,ˈtʀɑmpoːlɪn,"[True, False, False]","[True, False, False]"
+3028,P3Y8M0DT0H0M0S,Trottinette,ˈtʀotɪnæt,ˈtʀɔntɪnæt,"[True, False, False]","[True, False, False]"
+3028,P3Y8M0DT0H0M0S,Bänk,ˈbæŋk,ˈbæŋk,[True],[True]
+3028,P3Y8M0DT0H0M0S,Jeeër,ˈjeːɐ,ˈjeːɐ,[True],[True]
+3028,P3Y8M0DT0H0M0S,Buch,ˈbux,ˈbux,[True],[True]
+3028,P3Y8M0DT0H0M0S,Sprëtz,ˈʃpʀəʦ,ˈspʀəʦ,[True],[True]
+3028,P3Y8M0DT0H0M0S,Schëff,ˈʃəf,ˈʃəf,[True],[True]
+3028,P3Y8M0DT0H0M0S,Glas,ˈglaːs,ˈglaːs,[True],[True]
+3028,P3Y8M0DT0H0M0S,Schwäin,ˈʃwæːɪn,ˈʃwæːɪn,[True],[True]
+3028,P3Y8M0DT0H0M0S,Auto,ˈɑʊto,ˈɑʊto,"[True, False]","[True, False]"
+3028,P3Y8M0DT0H0M0S,blo,ˈbloː,ˈbloː,[True],[True]
+3028,P3Y8M0DT0H0M0S,Sak,ˈzaːk,ˈzaːk,[True],[True]
+3028,P3Y8M0DT0H0M0S,Trakter,ˈtʀɑktɐ,ˈtʀɑktʀər,"[True, False]","[True, False]"
+3028,P3Y8M0DT0H0M0S,Plooschter,ˈploːʃtɐ,ˈploːʃtɐ,"[True, False]","[True, False]"
+3028,P3Y8M0DT0H0M0S,Schaf,ˈʃaːf,ˈʃaːf,[True],[True]
+3028,P3Y8M0DT0H0M0S,Apel,ˈaːpəl,ˈaːpəl,"[True, False]","[True, False]"
+3028,P3Y8M0DT0H0M0S,Schéier,ˈʃɜɪɐ,ˈʃɜɪɐ,[True],[True]
+3028,P3Y8M0DT0H0M0S,Zaang,ˈʦaːŋ,ˈʦaːŋ,[True],[True]
+3028,P3Y8M0DT0H0M0S,Cadeau,ˈkɑdoː,ˈkɑdoː,"[True, False]","[True, False]"
+3028,P3Y8M0DT0H0M0S,Fënster,ˈfənstɐ,ˈfənʃtər,"[True, False]","[True, False]"
+3028,P3Y8M0DT0H0M0S,Brëll,ˈbʀəl,ˈbʀəl,[True],[True]
+3028,P3Y8M0DT0H0M0S,Schlaang,ˈʃlaːŋ,ˈʃlaːŋ,[True],[True]
+3028,P3Y8M0DT0H0M0S,Gras,ˈgʀaːs,ˈgʀaːs,[True],[True]
+3028,P3Y8M0DT0H0M0S,Hex,ˈhæks,ˈhæks,[True],[True]
+3028,P3Y8M0DT0H0M0S,Fräsch,ˈfʀæʃ,ˈfʀæʃ,[True],[True]
+3028,P3Y8M0DT0H0M0S,Quak,ˈkwaːk,ˈkwaːk,[True],[True]
+3028,P3Y8M0DT0H0M0S,Zwerg,ˈʦwɛʁɕ,ˈʦwɛʁɕ,[True],[True]
+3028,P3Y8M0DT0H0M0S,Päerd,ˈpɛːɐt,ˈpɛːɐt,[True],[True]
+3028,P3Y8M0DT0H0M0S,Wipp,ˈvip,ˈvip,[True],[True]
+3028,P3Y8M0DT0H0M0S,Giraff,ʒɪˈʀɑf,ʒɪˈʀɑf,"[False, True]","[False, True]"
+3028,P3Y8M0DT0H0M0S,Noss,ˈnos,ˈnos,[True],[True]
+3028,P3Y8M0DT0H0M0S,Schlëssel,ˈʃləsəl,ˈʃləsəl,"[True, False]","[True, False]"
+3028,P3Y8M0DT0H0M0S,Kuerf,ˈkuəf,ˈkuəf,[True],[True]
+3028,P3Y8M0DT0H0M0S,Dusch,ˈdʊʃ,ˈdʊs,[True],[True]
+3028,P3Y8M0DT0H0M0S,Gittar,ˈgitaːʁ,ˈgitaːʁ,"[True, False]","[True, False]"
+3028,P3Y8M0DT0H0M0S,Spaghetti,ʃpɑˈgætɪ,ʃpɑˈgætɪ,"[False, True, False]","[False, True, False]"
+3028,P3Y8M0DT0H0M0S,Papagei,ˈpɑpagɑɪ,ˈpɑpagɑɪ,"[True, False, False]","[True, False, False]"
+3028,P3Y8M0DT0H0M0S,Luʦch,ˈlutʃ,ˈlutʃ,[True],[True]
+3028,P3Y8M0DT0H0M0S,Schmier,ˈʃmiːɐ,ˈsmiər,[True],[True]
+3025,P3Y10M0DT0H0M0S,Trampolin,ˈtʀɑmpoːlɪn,ˈtʀɑmpoːlɪn,"[True, False, False]","[True, False, False]"
+3025,P3Y10M0DT0H0M0S,Mëllech,ˈmələɕ,ˈmələɕ,"[True, False]","[True, False]"
+3025,P3Y10M0DT0H0M0S,Päiperlek,ˈpæːɪpɐlek,ˈpæːɪpɐlek,"[True, False, False]","[True, False, False]"
+3025,P3Y10M0DT0H0M0S,Lut,ˈluːt,ˈluːt,[True],[True]
+3025,P3Y10M0DT0H0M0S,Forschett,ˈfɔʁʃæt,ˈfɔχfæt,"[True, False]","[True, False]"
+3025,P3Y10M0DT0H0M0S,Hand,ˈhɑnt,ˈhɑnt,[True],[True]
+3025,P3Y10M0DT0H0M0S,Posch,ˈpoʃ,ˈpoʃ,[True],[True]
+3025,P3Y10M0DT0H0M0S,Stull,ˈʃtul,ˈtʊl,[True],[True]
+3025,P3Y10M0DT0H0M0S,Plover,ˈploːvɐ,ˈpoːvər,"[True, False]","[True, False]"
+3025,P3Y10M0DT0H0M0S,Sonn,ˈzon,ˈθɔn,[True],[True]
+3025,P3Y10M0DT0H0M0S,rout,ˈʀəʊt,ˈʀəʊt,[True],[True]
+3025,P3Y10M0DT0H0M0S,kleng,ˈklæŋ,ˈkɛŋ,[True],[True]
+3025,P3Y10M0DT0H0M0S,Taucher,ˈtɑʊxɐ,ˈtɑʊxɐ,"[True, False]","[True, False]"
+3025,P3Y10M0DT0H0M0S,Haus,ˈhaːʊs,ˈhaːʊs,[True],[True]
+3025,P3Y10M0DT0H0M0S,Jong,ˈjoŋ,ˈjoŋ,[True],[True]
+3025,P3Y10M0DT0H0M0S,Telefon,ˈtələfoːn,ˈtələfoːn,"[True, False, False]","[True, False, False]"
+3025,P3Y10M0DT0H0M0S,Spann,ˈʃpɑn,ˈpan,[True],[True]
+3025,P3Y10M0DT0H0M0S,Hues,ˈhuəs,ˈhuəs,[True],[True]
+3025,P3Y10M0DT0H0M0S,Kaz,ˈkaːʦ,ˈkatθ,[True],[True]
+3025,P3Y10M0DT0H0M0S,Schwanz,ˈʃwɑnʦ,ˈwanʦ,[True],[True]
+3025,P3Y10M0DT0H0M0S,Taass,ˈtaːs,ˈtaːs,[True],[True]
+3025,P3Y10M0DT0H0M0S,Tromm,ˈtʀom,ˈtɔməl,[True],"[True, False]"
+3025,P3Y10M0DT0H0M0S,Motorrad,ˈmotoʀaːt,ˈmotoʀaːt,"[True, False, False]","[True, False, False]"
+3025,P3Y10M0DT0H0M0S,Schleek,ˈʃleːk,ˈsek,[True],[True]
+3025,P3Y10M0DT0H0M0S,Zitroun,ʦɪˈtʀəʊn,sɪtəʊn,"[False, True]","[False, False]"
+3025,P3Y10M0DT0H0M0S,Nascht,ˈnɑʃt,ˈnɑʃt,[True],[True]
+3025,P3Y10M0DT0H0M0S,Ruʦch,ˈʀutʃ,ʀʊts,[True],[False]
+3025,P3Y10M0DT0H0M0S,Becher,ˈbæɕɐ,ˈbɛθə,"[True, False]","[True, False]"
+3025,P3Y10M0DT0H0M0S,Zebra,ˈʦeːbʀaː,ˈʦebːaʀa,"[True, False]","[True, False, False]"
+3025,P3Y10M0DT0H0M0S,Bréif,ˈbʀɜɪf,ˈbɜɪf,[True],[True]
+3025,P3Y10M0DT0H0M0S,Knäpp,ˈknæp,ˈkæp,[True],[True]
+3025,P3Y10M0DT0H0M0S,dräi,ˈdʀæːɪ,ˈdæɪ,[True],[True]
+3025,P3Y10M0DT0H0M0S,Fësch,ˈfəʃ,ˈfəθ,[True],[True]
+3025,P3Y10M0DT0H0M0S,Police,ˈpolɪs,ˈpɔlɪθ,"[True, False]","[True, False]"
+3025,P3Y10M0DT0H0M0S,Fläsch,ˈflæʃ,ˈflæθ,[True],[True]
+3025,P3Y10M0DT0H0M0S,Krokodill,kʀɔkoˈdɪl,kɔkɔdɪl,"[False, False, True]","[False, False, False]"
+3025,P3Y10M0DT0H0M0S,gréng,ˈgʀeŋ,ˈgɪŋ,[True],[True]
+3025,P3Y10M0DT0H0M0S,Elefant,ələˈfɑnt,ələˈfɑnt,"[False, False, True]","[False, False, True]"
+3025,P3Y10M0DT0H0M0S,Blumm,ˈblum,ˈblum,[True],[True]
+3025,P3Y10M0DT0H0M0S,Gespenst,gəˈʃpænst,gəːθt,"[False, True]",[False]
+3025,P3Y10M0DT0H0M0S,Draach,ˈdʀaːx,ˈdʀaːx,[True],[True]
+3025,P3Y10M0DT0H0M0S,Banane,bɑˈnɑn,bɑˈnɑn,"[False, True]","[False, True]"
+3025,P3Y10M0DT0H0M0S,Bagger,ˈbɑgɐ,ˈbɑgɐ,"[True, False]","[True, False]"
+3025,P3Y10M0DT0H0M0S,giel,ˈgiəl,ˈgiəl,[True],[True]
+3025,P3Y10M0DT0H0M0S,Jackett,ˈʒɑkæt,ˈzakæt,"[True, False]","[True, False]"
+3025,P3Y10M0DT0H0M0S,Gebuerʦdag,gəˈbuːɐʦdaːx,gəˈbuərʦdaːk,"[False, True, False]","[False, True, False]"
+3025,P3Y10M0DT0H0M0S,Bild,ˈbilt,ˈbilt,[True],[True]
+3025,P3Y10M0DT0H0M0S,Rank,ˈʀɑŋk,ˈʀɑŋk,[True],[True]
+3025,P3Y10M0DT0H0M0S,Bänk,ˈbæŋk,ˈbæŋk,[True],[True]
+3025,P3Y10M0DT0H0M0S,Trottinette,ˈtʀotɪnæt,ˈtɔtɪnæt,"[True, False, False]","[True, False, False]"
+3025,P3Y10M0DT0H0M0S,Buch,ˈbux,ˈbux,[True],[True]
+3025,P3Y10M0DT0H0M0S,Jeeër,ˈjeːɐ,ˈjeːɐ,[True],[True]
+3025,P3Y10M0DT0H0M0S,Sprëtz,ˈʃpʀəʦ,ˈpəʦ,[True],[True]
+3025,P3Y10M0DT0H0M0S,Schëff,ˈʃəf,ˈʃəf,[True],[True]
+3025,P3Y10M0DT0H0M0S,Glas,ˈglaːs,ˈgaːs,[True],[True]
+3025,P3Y10M0DT0H0M0S,Waasser,ˈvaːsɐ,ˈvaːsɐ,"[True, False]","[True, False]"
+3025,P3Y10M0DT0H0M0S,Auto,ˈɑʊto,ˈɑʊto,"[True, False]","[True, False]"
+3025,P3Y10M0DT0H0M0S,blo,ˈbloː,ˈbloː,[True],[True]
+3025,P3Y10M0DT0H0M0S,Schwäin,ˈʃwæːɪn,ˈwæːɪn,[True],[True]
+3025,P3Y10M0DT0H0M0S,Sak,ˈzaːk,ˈzaːk,[True],[True]
+3025,P3Y10M0DT0H0M0S,Trakter,ˈtʀɑktɐ,ˈkʀaktər,"[True, False]","[True, False]"
+3025,P3Y10M0DT0H0M0S,Schaf,ˈʃaːf,ˈʃaːf,[True],[True]
+3025,P3Y10M0DT0H0M0S,Plooschter,ˈploːʃtɐ,ˈploːstər,"[True, False]","[True, False]"
+3025,P3Y10M0DT0H0M0S,Schéier,ˈʃɜɪɐ,ˈθɜɪəʟ,[True],[True]
+3025,P3Y10M0DT0H0M0S,Zaang,ˈʦaːŋ,θɔːŋ,[True],[False]
+3025,P3Y10M0DT0H0M0S,Apel,ˈaːpəl,ˈaːpəl,"[True, False]","[True, False]"
+3025,P3Y10M0DT0H0M0S,Cadeau,ˈkɑdoː,ˈkɑdoː,"[True, False]","[True, False]"
+3025,P3Y10M0DT0H0M0S,Fënster,ˈfənstɐ,ˈfənstɐ,"[True, False]","[True, False]"
+3025,P3Y10M0DT0H0M0S,Brëll,ˈbʀəl,ˈbəl,[True],[True]
+3025,P3Y10M0DT0H0M0S,Schlaang,ˈʃlaːŋ,ˈθaːŋ,[True],[True]
+3025,P3Y10M0DT0H0M0S,Gras,ˈgʀaːs,ˈgʀaːs,[True],[True]
+3025,P3Y10M0DT0H0M0S,Fräsch,ˈfʀæʃ,ˈfʀæθ,[True],[True]
+3025,P3Y10M0DT0H0M0S,Quak,ˈkwaːk,ˈkaːk,[True],[True]
+3025,P3Y10M0DT0H0M0S,Hex,ˈhæks,ˈhæks,[True],[True]
+3025,P3Y10M0DT0H0M0S,Zwerg,ˈʦwɛʁɕ,ˈtθæχθ,[True],[True]
+3025,P3Y10M0DT0H0M0S,Päerd,ˈpɛːɐt,ˈpɛːɐt,[True],[True]
+3025,P3Y10M0DT0H0M0S,Wipp,ˈvip,ˈvip,[True],[True]
+3025,P3Y10M0DT0H0M0S,Noss,ˈnos,ˈnɔθ,[True],[True]
+3025,P3Y10M0DT0H0M0S,Giraff,ʒɪˈʀɑf,ʒɪˈʀɑf,"[False, True]","[False, True]"
+3025,P3Y10M0DT0H0M0S,Kuerf,ˈkuəf,ˈkuəf,[True],[True]
+3025,P3Y10M0DT0H0M0S,Schlëssel,ˈʃləsəl,ˈθəsəl,"[True, False]","[True, False]"
+3025,P3Y10M0DT0H0M0S,Dusch,ˈdʊʃ,ˈdʊθ,[True],[True]
+3025,P3Y10M0DT0H0M0S,Gittar,ˈgitaːʁ,ˈgitaːʁ,"[True, False]","[True, False]"
+3025,P3Y10M0DT0H0M0S,Spaghetti,ʃpɑˈgætɪ,pɛtɪ,"[False, True, False]","[False, False]"
+3025,P3Y10M0DT0H0M0S,Papagei,ˈpɑpagɑɪ,ˈpɑpagɑɪ,"[True, False, False]","[True, False, False]"
+3025,P3Y10M0DT0H0M0S,Luʦch,ˈlutʃ,ˈlʊtθ,[True],[True]
+3025,P3Y10M0DT0H0M0S,Schmier,ˈʃmiːɐ,ˈmiər,[True],[True]
+1005,P3Y8M0DT0H0M0S,Posch,ˈpoʃ,ˈpoʃ,[True],[True]
+1005,P3Y8M0DT0H0M0S,Forschett,ˈfɔʁʃæt,ˈfɔʁʃæt,"[True, False]","[True, False]"
+1005,P3Y8M0DT0H0M0S,Hand,ˈhɑnt,ˈhɑnt,[True],[True]
+1005,P3Y8M0DT0H0M0S,Lut,ˈluːt,ˈluːt,[True],[True]
+1005,P3Y8M0DT0H0M0S,Sonn,ˈzon,ˈzon,[True],[True]
+1005,P3Y8M0DT0H0M0S,Plover,ˈploːvɐ,ˈploːvɐ,"[True, False]","[True, False]"
+1005,P3Y8M0DT0H0M0S,Stull,ˈʃtul,ˈʃtul,[True],[True]
+1005,P3Y8M0DT0H0M0S,rout,ˈʀəʊt,ˈʀəʊt,[True],[True]
+1005,P3Y8M0DT0H0M0S,kleng,ˈklæŋ,ˈklæŋ,[True],[True]
+1005,P3Y8M0DT0H0M0S,Taucher,ˈtɑʊxɐ,ˈtɑʊxɐ,"[True, False]","[True, False]"
+1005,P3Y8M0DT0H0M0S,Haus,ˈhaːʊs,ˈhaːʊs,[True],[True]
+1005,P3Y8M0DT0H0M0S,Jong,ˈjoŋ,ˈjoŋ,[True],[True]
+1005,P3Y8M0DT0H0M0S,Telefon,ˈtələfoːn,ˈtələfoːn,"[True, False, False]","[True, False, False]"
+1005,P3Y8M0DT0H0M0S,Spann,ˈʃpɑn,ˈʃpɑn,[True],[True]
+1005,P3Y8M0DT0H0M0S,Taass,ˈtaːs,ˈtaːs,[True],[True]
+1005,P3Y8M0DT0H0M0S,Kaz,ˈkaːʦ,ˈkaːʦ,[True],[True]
+1005,P3Y8M0DT0H0M0S,Schwanz,ˈʃwɑnʦ,ˈʃwɑnʦ,[True],[True]
+1005,P3Y8M0DT0H0M0S,Hues,ˈhuəs,ˈhuəs,[True],[True]
+1005,P3Y8M0DT0H0M0S,Tromm,ˈtʀom,ˈtʀɔməl,[True],"[True, False]"
+1005,P3Y8M0DT0H0M0S,Motorrad,ˈmotoʀaːt,ˈmotoʀaːt,"[True, False, False]","[True, False, False]"
+1005,P3Y8M0DT0H0M0S,Schleek,ˈʃleːk,ˈʃleːk,[True],[True]
+1005,P3Y8M0DT0H0M0S,Zitroun,ʦɪˈtʀəʊn,ʦɪˈtʀəʊn,"[False, True]","[False, True]"
+1005,P3Y8M0DT0H0M0S,Nascht,ˈnɑʃt,ˈnɑʃt,[True],[True]
+1005,P3Y8M0DT0H0M0S,Becher,ˈbæɕɐ,ˈbæɕɐ,"[True, False]","[True, False]"
+1005,P3Y8M0DT0H0M0S,Ruʦch,ˈʀutʃ,ˈʀutʃ,[True],[True]
+1005,P3Y8M0DT0H0M0S,Bréif,ˈbʀɜɪf,ˈbʀɜɪf,[True],[True]
+1005,P3Y8M0DT0H0M0S,Zebra,ˈʦeːbʀaː,ˈʦeːbʀaː,"[True, False]","[True, False]"
+1005,P3Y8M0DT0H0M0S,Knäpp,ˈknæp,ˈknap,[True],[True]
+1005,P3Y8M0DT0H0M0S,dräi,ˈdʀæːɪ,ˈdʀæːɪ,[True],[True]
+1005,P3Y8M0DT0H0M0S,Fësch,ˈfəʃ,ˈfəʃ,[True],[True]
+1005,P3Y8M0DT0H0M0S,Mëllech,ˈmələɕ,ˈmələɕ,"[True, False]","[True, False]"
+1005,P3Y8M0DT0H0M0S,Waasser,ˈvaːsɐ,ˈvaːsɐ,"[True, False]","[True, False]"
+1005,P3Y8M0DT0H0M0S,Police,ˈpolɪs,ˈpolɪs,"[True, False]","[True, False]"
+1005,P3Y8M0DT0H0M0S,Fläsch,ˈflæʃ,ˈflæʃ,[True],[True]
+1005,P3Y8M0DT0H0M0S,Krokodill,kʀɔkoˈdɪl,kʀɔkoˈdɪli,"[False, False, True]","[False, False, True, False]"
+1005,P3Y8M0DT0H0M0S,gréng,ˈgʀeŋ,ˈgʀeŋ,[True],[True]
+1005,P3Y8M0DT0H0M0S,Gespenst,gəˈʃpænst,gəspɛnst,"[False, True]","[False, False]"
+1005,P3Y8M0DT0H0M0S,Blumm,ˈblum,ˈblum,[True],[True]
+1005,P3Y8M0DT0H0M0S,Elefant,ələˈfɑnt,ələˈfɑnt,"[False, False, True]","[False, False, True]"
+1005,P3Y8M0DT0H0M0S,Draach,ˈdʀaːx,ˈdʀaːx,[True],[True]
+1005,P3Y8M0DT0H0M0S,Banane,bɑˈnɑn,bɑˈnɑn,"[False, True]","[False, True]"
+1005,P3Y8M0DT0H0M0S,Bagger,ˈbɑgɐ,ˈbɑgɐ,"[True, False]","[True, False]"
+1005,P3Y8M0DT0H0M0S,giel,ˈgiəl,ˈgiəl,[True],[True]
+1005,P3Y8M0DT0H0M0S,Gebuerʦdag,gəˈbuːɐʦdaːx,gəˈbuːɐʦdaːx,"[False, True, False]","[False, True, False]"
+1005,P3Y8M0DT0H0M0S,Jackett,ˈʒɑkæt,ˈʒɑkæt,"[True, False]","[True, False]"
+1005,P3Y8M0DT0H0M0S,Päiperlek,ˈpæːɪpɐlek,ˈpæːɪpɐlek,"[True, False, False]","[True, False, False]"
+1005,P3Y8M0DT0H0M0S,Rank,ˈʀɑŋk,ˈʀɑŋk,[True],[True]
+1005,P3Y8M0DT0H0M0S,Bild,ˈbilt,ˈbilt,[True],[True]
+1005,P3Y8M0DT0H0M0S,Trampolin,ˈtʀɑmpoːlɪn,ˈtʀɑmpoːlɪn,"[True, False, False]","[True, False, False]"
+1005,P3Y8M0DT0H0M0S,Bänk,ˈbæŋk,ˈbæŋk,[True],[True]
+1005,P3Y8M0DT0H0M0S,Trottinette,ˈtʀotɪnæt,ˈtʀotɪnæt,"[True, False, False]","[True, False, False]"
+1005,P3Y8M0DT0H0M0S,Jeeër,ˈjeːɐ,ˈjeːɐ,[True],[True]
+1005,P3Y8M0DT0H0M0S,Sprëtz,ˈʃpʀəʦ,ˈʃpʀəʦ,[True],[True]
+1005,P3Y8M0DT0H0M0S,Buch,ˈbux,ˈbux,[True],[True]
+1005,P3Y8M0DT0H0M0S,Glas,ˈglaːs,ˈglaːs,[True],[True]
+1005,P3Y8M0DT0H0M0S,Schëff,ˈʃəf,ˈʃəf,[True],[True]
+1005,P3Y8M0DT0H0M0S,Auto,ˈɑʊto,ˈɑʊto,"[True, False]","[True, False]"
+1005,P3Y8M0DT0H0M0S,Schwäin,ˈʃwæːɪn,ˈʃwæːɪn,[True],[True]
+1005,P3Y8M0DT0H0M0S,Sak,ˈzaːk,ˈzaːk,[True],[True]
+1005,P3Y8M0DT0H0M0S,blo,ˈbloː,ˈbloː,[True],[True]
+1005,P3Y8M0DT0H0M0S,Plooschter,ˈploːʃtɐ,ˈploːʃtɐ,"[True, False]","[True, False]"
+1005,P3Y8M0DT0H0M0S,Trakter,ˈtʀɑktɐ,ˈtʀɑktɐ,"[True, False]","[True, False]"
+1005,P3Y8M0DT0H0M0S,Schaf,ˈʃaːf,ˈʃaːf,[True],[True]
+1005,P3Y8M0DT0H0M0S,Apel,ˈaːpəl,ˈaːpəl,"[True, False]","[True, False]"
+1005,P3Y8M0DT0H0M0S,Zaang,ˈʦaːŋ,ˈtθaːŋ,[True],[True]
+1005,P3Y8M0DT0H0M0S,Schéier,ˈʃɜɪɐ,ˈʃɜɪɐ,[True],[True]
+1005,P3Y8M0DT0H0M0S,Cadeau,ˈkɑdoː,ˈkɑdoː,"[True, False]","[True, False]"
+1005,P3Y8M0DT0H0M0S,Fënster,ˈfənstɐ,ˈfənstɐ,"[True, False]","[True, False]"
+1005,P3Y8M0DT0H0M0S,Brëll,ˈbʀəl,ˈbʀəl,[True],[True]
+1005,P3Y8M0DT0H0M0S,Schlaang,ˈʃlaːŋ,ˈʃlaːŋ,[True],[True]
+1005,P3Y8M0DT0H0M0S,Gras,ˈgʀaːs,ˈgʀaːs,[True],[True]
+1005,P3Y8M0DT0H0M0S,Hex,ˈhæks,ˈhæks,[True],[True]
+1005,P3Y8M0DT0H0M0S,Fräsch,ˈfʀæʃ,ˈfʀæʃ,[True],[True]
+1005,P3Y8M0DT0H0M0S,Quak,ˈkwaːk,ˈkwaːk,[True],[True]
+1005,P3Y8M0DT0H0M0S,Zwerg,ˈʦwɛʁɕ,ˈtwæχɕ,[True],[True]
+1005,P3Y8M0DT0H0M0S,Päerd,ˈpɛːɐt,ˈpɛːɐt,[True],[True]
+1005,P3Y8M0DT0H0M0S,Wipp,ˈvip,ˈvip,[True],[True]
+1005,P3Y8M0DT0H0M0S,Noss,ˈnos,ˈnos,[True],[True]
+1005,P3Y8M0DT0H0M0S,Giraff,ʒɪˈʀɑf,ʒɪˈʀɑf,"[False, True]","[False, True]"
+1005,P3Y8M0DT0H0M0S,Kuerf,ˈkuəf,ˈkuəf,[True],[True]
+1005,P3Y8M0DT0H0M0S,Schlëssel,ˈʃləsəl,ˈʃləsəl,"[True, False]","[True, False]"
+1005,P3Y8M0DT0H0M0S,Dusch,ˈdʊʃ,ˈdʊʃ,[True],[True]
+1005,P3Y8M0DT0H0M0S,Gittar,ˈgitaːʁ,ˈgitaːʁ,"[True, False]","[True, False]"
+1005,P3Y8M0DT0H0M0S,Papagei,ˈpɑpagɑɪ,ˈpɑpagɑɪ,"[True, False, False]","[True, False, False]"
+1005,P3Y8M0DT0H0M0S,Luʦch,ˈlutʃ,ˈlutʃ,[True],[True]
+1005,P3Y8M0DT0H0M0S,Schmier,ˈʃmiːɐ,ˈʃmiːɐ,[True],[True]
+1005,P3Y8M0DT0H0M0S,Spaghetti,ʃpɑˈgætɪ,ʃpɑˈgætɪ,"[False, True, False]","[False, True, False]"
+3022,P3Y9M0DT0H0M0S,Posch,ˈpoʃ,ˈpoʃ,[True],[True]
+3022,P3Y9M0DT0H0M0S,Forschett,ˈfɔʁʃæt,ˈfɔʁʃæt,"[True, False]","[True, False]"
+3022,P3Y9M0DT0H0M0S,Hand,ˈhɑnt,ˈhɑnt,[True],[True]
+3022,P3Y9M0DT0H0M0S,Lut,ˈluːt,ˈlʊət,[True],[True]
+3022,P3Y9M0DT0H0M0S,Stull,ˈʃtul,ˈʃtul,[True],[True]
+3022,P3Y9M0DT0H0M0S,Plover,ˈploːvɐ,ˈploːvɐ,"[True, False]","[True, False]"
+3022,P3Y9M0DT0H0M0S,Sonn,ˈzon,ˈzon,[True],[True]
+3022,P3Y9M0DT0H0M0S,Haus,ˈhaːʊs,ˈhaːʊs,[True],[True]
+3022,P3Y9M0DT0H0M0S,Taucher,ˈtɑʊxɐ,ˈtɑʊxɐ,"[True, False]","[True, False]"
+3022,P3Y9M0DT0H0M0S,rout,ˈʀəʊt,ˈʀəʊt,[True],[True]
+3022,P3Y9M0DT0H0M0S,kleng,ˈklæŋ,ˈklæŋ,[True],[True]
+3022,P3Y9M0DT0H0M0S,Spann,ˈʃpɑn,ˈʃpɑn,[True],[True]
+3022,P3Y9M0DT0H0M0S,Telefon,ˈtələfoːn,ˈtələfoːn,"[True, False, False]","[True, False, False]"
+3022,P3Y9M0DT0H0M0S,Jong,ˈjoŋ,ˈjoŋ,[True],[True]
+3022,P3Y9M0DT0H0M0S,Taass,ˈtaːs,ˈtaːs,[True],[True]
+3022,P3Y9M0DT0H0M0S,Kaz,ˈkaːʦ,ˈkaːʦ,[True],[True]
+3022,P3Y9M0DT0H0M0S,Schwanz,ˈʃwɑnʦ,ˈʃwɑnʦ,[True],[True]
+3022,P3Y9M0DT0H0M0S,Hues,ˈhuəs,ˈhuəs,[True],[True]
+3022,P3Y9M0DT0H0M0S,Spaghetti,ʃpɑˈgætɪ,ʃpaˈgɛt,"[False, True, False]","[False, True]"
+3022,P3Y9M0DT0H0M0S,Tromm,ˈtʀom,ˈtʀɔməl,[True],"[True, False]"
+3022,P3Y9M0DT0H0M0S,Motorrad,ˈmotoʀaːt,ˈmɔtoʀ,"[True, False, False]","[True, False]"
+3022,P3Y9M0DT0H0M0S,Schleek,ˈʃleːk,ˈʃleːk,[True],[True]
+3022,P3Y9M0DT0H0M0S,Zitroun,ʦɪˈtʀəʊn,ʦɪˈtʀəʊn,"[False, True]","[False, True]"
+3022,P3Y9M0DT0H0M0S,Nascht,ˈnɑʃt,ˈnɑʃt,[True],[True]
+3022,P3Y9M0DT0H0M0S,Ruʦch,ˈʀutʃ,ˈʀutʃ,[True],[True]
+3022,P3Y9M0DT0H0M0S,Becher,ˈbæɕɐ,ˈbæɕɐ,"[True, False]","[True, False]"
+3022,P3Y9M0DT0H0M0S,Zebra,ˈʦeːbʀaː,ˈtʃeːbʀa,"[True, False]","[True, False]"
+3022,P3Y9M0DT0H0M0S,Bréif,ˈbʀɜɪf,ˈbʀɜɪf,[True],[True]
+3022,P3Y9M0DT0H0M0S,Mëllech,ˈmələɕ,ˈmələɕ,"[True, False]","[True, False]"
+3022,P3Y9M0DT0H0M0S,Fësch,ˈfəʃ,ˈfəʃ,[True],[True]
+3022,P3Y9M0DT0H0M0S,dräi,ˈdʀæːɪ,ˈdʀæːɪ,[True],[True]
+3022,P3Y9M0DT0H0M0S,Knäpp,ˈknæp,ˈknæp,[True],[True]
+3022,P3Y9M0DT0H0M0S,Krokodill,kʀɔkoˈdɪl,kʀɔkoˈdɪl,"[False, False, True]","[False, False, True]"
+3022,P3Y9M0DT0H0M0S,Fläsch,ˈflæʃ,ˈflæʃ,[True],[True]
+3022,P3Y9M0DT0H0M0S,Police,ˈpolɪs,ˈpolɪs,"[True, False]","[True, False]"
+3022,P3Y9M0DT0H0M0S,gréng,ˈgʀeŋ,ˈgʀeŋ,[True],[True]
+3022,P3Y9M0DT0H0M0S,Gespenst,gəˈʃpænst,gəˈʃpænst,"[False, True]","[False, True]"
+3022,P3Y9M0DT0H0M0S,Blumm,ˈblum,ˈblum,[True],[True]
+3022,P3Y9M0DT0H0M0S,Elefant,ələˈfɑnt,ələˈfɑnt,"[False, False, True]","[False, False, True]"
+3022,P3Y9M0DT0H0M0S,Bagger,ˈbɑgɐ,ˈbɑgɐ,"[True, False]","[True, False]"
+3022,P3Y9M0DT0H0M0S,Banane,bɑˈnɑn,bɑˈnɑn,"[False, True]","[False, True]"
+3022,P3Y9M0DT0H0M0S,Draach,ˈdʀaːx,ˈdʀaːx,[True],[True]
+3022,P3Y9M0DT0H0M0S,giel,ˈgiəl,ˈgiəl,[True],[True]
+3022,P3Y9M0DT0H0M0S,Gebuerʦdag,gəˈbuːɐʦdaːx,gəˈbuːɐʦdaːx,"[False, True, False]","[False, True, False]"
+3022,P3Y9M0DT0H0M0S,Jackett,ˈʒɑkæt,ˈʒɑkæt,"[True, False]","[True, False]"
+3022,P3Y9M0DT0H0M0S,Päiperlek,ˈpæːɪpɐlek,ˈpæːɪpɐlek,"[True, False, False]","[True, False, False]"
+3022,P3Y9M0DT0H0M0S,Bild,ˈbilt,ˈbilt,[True],[True]
+3022,P3Y9M0DT0H0M0S,Rank,ˈʀɑŋk,ˈʀɑŋk,[True],[True]
+3022,P3Y9M0DT0H0M0S,Trottinette,ˈtʀotɪnæt,ˈtʀotɪnæt,"[True, False, False]","[True, False, False]"
+3022,P3Y9M0DT0H0M0S,Trampolin,ˈtʀɑmpoːlɪn,ˈtʀɑmpoːlɪn,"[True, False, False]","[True, False, False]"
+3022,P3Y9M0DT0H0M0S,Bänk,ˈbæŋk,ˈbæŋk,[True],[True]
+3022,P3Y9M0DT0H0M0S,Jeeër,ˈjeːɐ,ˈjeːɐ,[True],[True]
+3022,P3Y9M0DT0H0M0S,Sprëtz,ˈʃpʀəʦ,ˈʃpʀəʦ,[True],[True]
+3022,P3Y9M0DT0H0M0S,Buch,ˈbux,ˈbux,[True],[True]
+3022,P3Y9M0DT0H0M0S,Schëff,ˈʃəf,ˈʃəf,[True],[True]
+3022,P3Y9M0DT0H0M0S,Glas,ˈglaːs,ˈglaːs,[True],[True]
+3022,P3Y9M0DT0H0M0S,Waasser,ˈvaːsɐ,ˈvaːsɐ,"[True, False]","[True, False]"
+3022,P3Y9M0DT0H0M0S,Sak,ˈzaːk,ˈzaːk,[True],[True]
+3022,P3Y9M0DT0H0M0S,Schwäin,ˈʃwæːɪn,ˈʃwæːɪn,[True],[True]
+3022,P3Y9M0DT0H0M0S,Auto,ˈɑʊto,ˈɑʊto,"[True, False]","[True, False]"
+3022,P3Y9M0DT0H0M0S,blo,ˈbloː,ˈbloː,[True],[True]
+3022,P3Y9M0DT0H0M0S,Schaf,ˈʃaːf,ˈʃaːf,[True],[True]
+3022,P3Y9M0DT0H0M0S,Trakter,ˈtʀɑktɐ,ˈtʀɑktɐ,"[True, False]","[True, False]"
+3022,P3Y9M0DT0H0M0S,Plooschter,ˈploːʃtɐ,ˈploːʃtɐ,"[True, False]","[True, False]"
+3022,P3Y9M0DT0H0M0S,Apel,ˈaːpəl,ˈaːpəl,"[True, False]","[True, False]"
+3022,P3Y9M0DT0H0M0S,Schéier,ˈʃɜɪɐ,ˈʃɜɪɐ,[True],[True]
+3022,P3Y9M0DT0H0M0S,Zaang,ˈʦaːŋ,ˈʦaːŋ,[True],[True]
+3022,P3Y9M0DT0H0M0S,Cadeau,ˈkɑdoː,ˈkɑdoː,"[True, False]","[True, False]"
+3022,P3Y9M0DT0H0M0S,Fënster,ˈfənstɐ,ˈfənstɐ,"[True, False]","[True, False]"
+3022,P3Y9M0DT0H0M0S,Brëll,ˈbʀəl,ˈbʀəl,[True],[True]
+3022,P3Y9M0DT0H0M0S,Gras,ˈgʀaːs,ˈgʀaːs,[True],[True]
+3022,P3Y9M0DT0H0M0S,Schlaang,ˈʃlaːŋ,ˈʃlaːŋ,[True],[True]
+3022,P3Y9M0DT0H0M0S,Hex,ˈhæks,ˈhæks,[True],[True]
+3022,P3Y9M0DT0H0M0S,Fräsch,ˈfʀæʃ,ˈfʀæʃ,[True],[True]
+3022,P3Y9M0DT0H0M0S,Quak,ˈkwaːk,ˈkwaːk,[True],[True]
+3022,P3Y9M0DT0H0M0S,Zwerg,ˈʦwɛʁɕ,ˈʦwɛʁɕ,[True],[True]
+3022,P3Y9M0DT0H0M0S,Päerd,ˈpɛːɐt,ˈpɛːɐt,[True],[True]
+3022,P3Y9M0DT0H0M0S,Wipp,ˈvip,ˈvip,[True],[True]
+3022,P3Y9M0DT0H0M0S,Giraff,ʒɪˈʀɑf,ʒɪˈʀɑf,"[False, True]","[False, True]"
+3022,P3Y9M0DT0H0M0S,Noss,ˈnos,ˈnos,[True],[True]
+3022,P3Y9M0DT0H0M0S,Schlëssel,ˈʃləsəl,ˈʃləsəl,"[True, False]","[True, False]"
+3022,P3Y9M0DT0H0M0S,Kuerf,ˈkuəf,ˈkuəf,[True],[True]
+3022,P3Y9M0DT0H0M0S,Gittar,ˈgitaːʁ,ˈgitaːʁ,"[True, False]","[True, False]"
+3022,P3Y9M0DT0H0M0S,Dusch,ˈdʊʃ,ˈdʊʃ,[True],[True]
+3022,P3Y9M0DT0H0M0S,Papagei,ˈpɑpagɑɪ,ˈpɑpagɑɪ,"[True, False, False]","[True, False, False]"
+3022,P3Y9M0DT0H0M0S,Luʦch,ˈlutʃ,ˈlutʃ,[True],[True]
+3022,P3Y9M0DT0H0M0S,Schmier,ˈʃmiːɐ,ˈʃmiːɐ,[True],[True]
+3023,P4Y0M0DT0H0M0S,Waasser,ˈvaːsɐ,ˈvaːsɐ,"[True, False]","[True, False]"
+3023,P4Y0M0DT0H0M0S,Forschett,ˈfɔʁʃæt,ˈfɔʁʃæt,"[True, False]","[True, False]"
+3023,P4Y0M0DT0H0M0S,Posch,ˈpoʃ,ˈpoʃ,[True],[True]
+3023,P4Y0M0DT0H0M0S,Hand,ˈhɑnt,ˈhɑnt,[True],[True]
+3023,P4Y0M0DT0H0M0S,Lut,ˈluːt,ˈluːt,[True],[True]
+3023,P4Y0M0DT0H0M0S,Sonn,ˈzon,ˈzon,[True],[True]
+3023,P4Y0M0DT0H0M0S,Plover,ˈploːvɐ,ˈploːvɐ,"[True, False]","[True, False]"
+3023,P4Y0M0DT0H0M0S,Stull,ˈʃtul,ˈʃtul,[True],[True]
+3023,P4Y0M0DT0H0M0S,Taucher,ˈtɑʊxɐ,ˈtɑʊxɐ,"[True, False]","[True, False]"
+3023,P4Y0M0DT0H0M0S,Haus,ˈhaːʊs,ˈhaːʊs,[True],[True]
+3023,P4Y0M0DT0H0M0S,rout,ˈʀəʊt,ˈʀəʊt,[True],[True]
+3023,P4Y0M0DT0H0M0S,kleng,ˈklæŋ,ˈklæŋ,[True],[True]
+3023,P4Y0M0DT0H0M0S,Jong,ˈjoŋ,ˈjoŋ,[True],[True]
+3023,P4Y0M0DT0H0M0S,Telefon,ˈtələfoːn,ˈtələfoːn,"[True, False, False]","[True, False, False]"
+3023,P4Y0M0DT0H0M0S,Spann,ˈʃpɑn,ˈʃpɑn,[True],[True]
+3023,P4Y0M0DT0H0M0S,Hues,ˈhuəs,ˈhuəs,[True],[True]
+3023,P4Y0M0DT0H0M0S,Kaz,ˈkaːʦ,ˈkaːʦ,[True],[True]
+3023,P4Y0M0DT0H0M0S,Taass,ˈtaːs,ˈtaːs,[True],[True]
+3023,P4Y0M0DT0H0M0S,Schwanz,ˈʃwɑnʦ,ˈʃwɑnʦ,[True],[True]
+3023,P4Y0M0DT0H0M0S,Tromm,ˈtʀom,ˈtʀɔməl,[True],"[True, False]"
+3023,P4Y0M0DT0H0M0S,Motorrad,ˈmotoʀaːt,ˈmotoʀaːt,"[True, False, False]","[True, False, False]"
+3023,P4Y0M0DT0H0M0S,Schleek,ˈʃleːk,ˈʃleːk,[True],[True]
+3023,P4Y0M0DT0H0M0S,Zitroun,ʦɪˈtʀəʊn,ʦɪˈtʀəʊn,"[False, True]","[False, True]"
+3023,P4Y0M0DT0H0M0S,Nascht,ˈnɑʃt,ˈnɑʃt,[True],[True]
+3023,P4Y0M0DT0H0M0S,Ruʦch,ˈʀutʃ,ˈʀutʃ,[True],[True]
+3023,P4Y0M0DT0H0M0S,Becher,ˈbæɕɐ,ˈbæɕɐ,"[True, False]","[True, False]"
+3023,P4Y0M0DT0H0M0S,Bréif,ˈbʀɜɪf,ˈbʀɜɪf,[True],[True]
+3023,P4Y0M0DT0H0M0S,Zebra,ˈʦeːbʀaː,ˈʦeːbʀaː,"[True, False]","[True, False]"
+3023,P4Y0M0DT0H0M0S,Knäpp,ˈknæp,ˈknæp,[True],[True]
+3023,P4Y0M0DT0H0M0S,Fësch,ˈfəʃ,ˈfəʃ,[True],[True]
+3023,P4Y0M0DT0H0M0S,Mëllech,ˈmələɕ,ˈmələɕ,"[True, False]","[True, False]"
+3023,P4Y0M0DT0H0M0S,dräi,ˈdʀæːɪ,ˈdʀæːɪ,[True],[True]
+3023,P4Y0M0DT0H0M0S,Krokodill,kʀɔkoˈdɪl,kʀɔkoˈdɪl,"[False, False, True]","[False, False, True]"
+3023,P4Y0M0DT0H0M0S,Fläsch,ˈflæʃ,ˈflæʃ,[True],[True]
+3023,P4Y0M0DT0H0M0S,Police,ˈpolɪs,ˈpolɪs,"[True, False]","[True, False]"
+3023,P4Y0M0DT0H0M0S,gréng,ˈgʀeŋ,ˈgʀeŋ,[True],[True]
+3023,P4Y0M0DT0H0M0S,Elefant,ələˈfɑnt,ələˈfɑnt,"[False, False, True]","[False, False, True]"
+3023,P4Y0M0DT0H0M0S,Blumm,ˈblum,ˈblum,[True],[True]
+3023,P4Y0M0DT0H0M0S,Gespenst,gəˈʃpænst,gəˈʃpænst,"[False, True]","[False, True]"
+3023,P4Y0M0DT0H0M0S,Draach,ˈdʀaːx,ˈdʀaːx,[True],[True]
+3023,P4Y0M0DT0H0M0S,Banane,bɑˈnɑn,bɑˈnɑn,"[False, True]","[False, True]"
+3023,P4Y0M0DT0H0M0S,Bagger,ˈbɑgɐ,ˈbɑgɐ,"[True, False]","[True, False]"
+3023,P4Y0M0DT0H0M0S,giel,ˈgiəl,ˈgiəl,[True],[True]
+3023,P4Y0M0DT0H0M0S,Gebuerʦdag,gəˈbuːɐʦdaːx,gəˈbuːɐʦdaːx,"[False, True, False]","[False, True, False]"
+3023,P4Y0M0DT0H0M0S,Jackett,ˈʒɑkæt,ˈʒɑkæt,"[True, False]","[True, False]"
+3023,P4Y0M0DT0H0M0S,Bild,ˈbilt,ˈbilt,[True],[True]
+3023,P4Y0M0DT0H0M0S,Päiperlek,ˈpæːɪpɐlek,ˈpæːɪpɐlek,"[True, False, False]","[True, False, False]"
+3023,P4Y0M0DT0H0M0S,Rank,ˈʀɑŋk,ˈʀɑŋk,[True],[True]
+3023,P4Y0M0DT0H0M0S,Bänk,ˈbæŋk,ˈbæŋk,[True],[True]
+3023,P4Y0M0DT0H0M0S,Trampolin,ˈtʀɑmpoːlɪn,ˈtʀɑmpoːlɪn,"[True, False, False]","[True, False, False]"
+3023,P4Y0M0DT0H0M0S,Trottinette,ˈtʀotɪnæt,ˈtʀotɪnæt,"[True, False, False]","[True, False, False]"
+3023,P4Y0M0DT0H0M0S,Buch,ˈbux,ˈbux,[True],[True]
+3023,P4Y0M0DT0H0M0S,Jeeër,ˈjeːɐ,ˈjeːɐ,[True],[True]
+3023,P4Y0M0DT0H0M0S,Sprëtz,ˈʃpʀəʦ,ˈʃpʀəʦ,[True],[True]
+3023,P4Y0M0DT0H0M0S,Schëff,ˈʃəf,ˈʃəf,[True],[True]
+3023,P4Y0M0DT0H0M0S,Glas,ˈglaːs,ˈglaːs,[True],[True]
+3023,P4Y0M0DT0H0M0S,Auto,ˈɑʊto,ˈɑʊto,"[True, False]","[True, False]"
+3023,P4Y0M0DT0H0M0S,blo,ˈbloː,ˈbloː,[True],[True]
+3023,P4Y0M0DT0H0M0S,Schwäin,ˈʃwæːɪn,ˈʃwæːɪn,[True],[True]
+3023,P4Y0M0DT0H0M0S,Sak,ˈzaːk,ˈzaːk,[True],[True]
+3023,P4Y0M0DT0H0M0S,Plooschter,ˈploːʃtɐ,ˈploːʃtɐ,"[True, False]","[True, False]"
+3023,P4Y0M0DT0H0M0S,Trakter,ˈtʀɑktɐ,ˈtʀɑktɐ,"[True, False]","[True, False]"
+3023,P4Y0M0DT0H0M0S,Schaf,ˈʃaːf,ˈʃaːf,[True],[True]
+3023,P4Y0M0DT0H0M0S,Apel,ˈaːpəl,ˈaːpəl,"[True, False]","[True, False]"
+3023,P4Y0M0DT0H0M0S,Schéier,ˈʃɜɪɐ,ˈʃɜɪɐ,[True],[True]
+3023,P4Y0M0DT0H0M0S,Zaang,ˈʦaːŋ,ˈʦaːŋ,[True],[True]
+3023,P4Y0M0DT0H0M0S,Cadeau,ˈkɑdoː,ˈkɑdoː,"[True, False]","[True, False]"
+3023,P4Y0M0DT0H0M0S,Fënster,ˈfənstɐ,ˈfənstɐ,"[True, False]","[True, False]"
+3023,P4Y0M0DT0H0M0S,Brëll,ˈbʀəl,ˈbʀəl,[True],[True]
+3023,P4Y0M0DT0H0M0S,Schlaang,ˈʃlaːŋ,ˈʃlaːŋ,[True],[True]
+3023,P4Y0M0DT0H0M0S,Gras,ˈgʀaːs,ˈgʀaːs,[True],[True]
+3023,P4Y0M0DT0H0M0S,Hex,ˈhæks,ˈhæks,[True],[True]
+3023,P4Y0M0DT0H0M0S,Fräsch,ˈfʀæʃ,ˈfʀæʃ,[True],[True]
+3023,P4Y0M0DT0H0M0S,Quak,ˈkwaːk,ˈkwaːk,[True],[True]
+3023,P4Y0M0DT0H0M0S,Zwerg,ˈʦwɛʁɕ,ˈʦwɛʁɕ,[True],[True]
+3023,P4Y0M0DT0H0M0S,Päerd,ˈpɛːɐt,ˈpɛːɐt,[True],[True]
+3023,P4Y0M0DT0H0M0S,Wipp,ˈvip,ˈvip,[True],[True]
+3023,P4Y0M0DT0H0M0S,Noss,ˈnos,ˈnos,[True],[True]
+3023,P4Y0M0DT0H0M0S,Giraff,ʒɪˈʀɑf,ʒɪˈʀɑf,"[False, True]","[False, True]"
+3023,P4Y0M0DT0H0M0S,Kuerf,ˈkuəf,ˈkuəf,[True],[True]
+3023,P4Y0M0DT0H0M0S,Schlëssel,ˈʃləsəl,ˈʃləsəl,"[True, False]","[True, False]"
+3023,P4Y0M0DT0H0M0S,Dusch,ˈdʊʃ,ˈdʊʃ,[True],[True]
+3023,P4Y0M0DT0H0M0S,Gittar,ˈgitaːʁ,ˈgitaːʁ,"[True, False]","[True, False]"
+3023,P4Y0M0DT0H0M0S,Schmier,ˈʃmiːɐ,ˈʃmiːɐ,[True],[True]
+3023,P4Y0M0DT0H0M0S,Luʦch,ˈlutʃ,ˈlutʃ,[True],[True]
+3023,P4Y0M0DT0H0M0S,Papagei,ˈpɑpagɑɪ,ˈpɑpagɑɪ,"[True, False, False]","[True, False, False]"
+3023,P4Y0M0DT0H0M0S,Spaghetti,ʃpɑˈgætɪ,ʃpɑˈgætɪ,"[False, True, False]","[False, True, False]"
+1006,P3Y9M0DT0H0M0S,Waasser,ˈvaːsɐ,ˈvaːsɐ,"[True, False]","[True, False]"
+1006,P3Y9M0DT0H0M0S,Taucher,ˈtɑʊxɐ,ˈtɑʊxɐ,"[True, False]","[True, False]"
+1006,P3Y9M0DT0H0M0S,Quak,ˈkwaːk,ˈkwaːk,[True],[True]
+1006,P3Y9M0DT0H0M0S,Posch,ˈpoʃ,ˈpoʃ,[True],[True]
+1006,P3Y9M0DT0H0M0S,Forschett,ˈfɔʁʃæt,ˈfɔʁʃæt,"[True, False]","[True, False]"
+1006,P3Y9M0DT0H0M0S,Hand,ˈhɑnt,ˈhɑnt,[True],[True]
+1006,P3Y9M0DT0H0M0S,Lut,ˈluːt,ˈluːt,[True],[True]
+1006,P3Y9M0DT0H0M0S,Sonn,ˈzon,ˈzon,[True],[True]
+1006,P3Y9M0DT0H0M0S,Plover,ˈploːvɐ,ˈploːvɐ,"[True, False]","[True, False]"
+1006,P3Y9M0DT0H0M0S,Stull,ˈʃtul,ˈʃtul,[True],[True]
+1006,P3Y9M0DT0H0M0S,rout,ˈʀəʊt,ˈʀəʊt,[True],[True]
+1006,P3Y9M0DT0H0M0S,kleng,ˈklæŋ,ˈklæŋ,[True],[True]
+1006,P3Y9M0DT0H0M0S,Haus,ˈhaːʊs,ˈhaːʊs,[True],[True]
+1006,P3Y9M0DT0H0M0S,Jong,ˈjoŋ,ˈjoŋ,[True],[True]
+1006,P3Y9M0DT0H0M0S,Telefon,ˈtələfoːn,ˈələfɔn,"[True, False, False]","[True, False, False]"
+1006,P3Y9M0DT0H0M0S,Spann,ˈʃpɑn,ˈʃpɑn,[True],[True]
+1006,P3Y9M0DT0H0M0S,Hues,ˈhuəs,ˈhuəs,[True],[True]
+1006,P3Y9M0DT0H0M0S,Kaz,ˈkaːʦ,ˈkaːʦ,[True],[True]
+1006,P3Y9M0DT0H0M0S,Schwanz,ˈʃwɑnʦ,ˈʃwɑnʦ,[True],[True]
+1006,P3Y9M0DT0H0M0S,Taass,ˈtaːs,ˈtaːs,[True],[True]
+1006,P3Y9M0DT0H0M0S,Tromm,ˈtʀom,ˈtʀɔməl,[True],"[True, False]"
+1006,P3Y9M0DT0H0M0S,Motorrad,ˈmotoʀaːt,ˈmotoʀaːt,"[True, False, False]","[True, False, False]"
+1006,P3Y9M0DT0H0M0S,Schleek,ˈʃleːk,ˈʃleːk,[True],[True]
+1006,P3Y9M0DT0H0M0S,Zitroun,ʦɪˈtʀəʊn,ʦɪˈtʀəʊn,"[False, True]","[False, True]"
+1006,P3Y9M0DT0H0M0S,Nascht,ˈnɑʃt,ˈnɑʃt,[True],[True]
+1006,P3Y9M0DT0H0M0S,Ruʦch,ˈʀutʃ,ˈʀutʃ,[True],[True]
+1006,P3Y9M0DT0H0M0S,Becher,ˈbæɕɐ,ˈbæɕɐ,"[True, False]","[True, False]"
+1006,P3Y9M0DT0H0M0S,Zebra,ˈʦeːbʀaː,ˈʦeːbʀaː,"[True, False]","[True, False]"
+1006,P3Y9M0DT0H0M0S,Bréif,ˈbʀɜɪf,ˈbʀɜɪf,[True],[True]
+1006,P3Y9M0DT0H0M0S,Knäpp,ˈknæp,ˈknapən,[True],"[True, False]"
+1006,P3Y9M0DT0H0M0S,dräi,ˈdʀæːɪ,ˈdʀæːɪ,[True],[True]
+1006,P3Y9M0DT0H0M0S,Fësch,ˈfəʃ,ˈfəʃ,[True],[True]
+1006,P3Y9M0DT0H0M0S,Mëllech,ˈmələɕ,ˈmələɕ,"[True, False]","[True, False]"
+1006,P3Y9M0DT0H0M0S,Police,ˈpolɪs,ˈpɔlɪtsaɪ,"[True, False]","[True, False, False]"
+1006,P3Y9M0DT0H0M0S,Fläsch,ˈflæʃ,ˈflæʃ,[True],[True]
+1006,P3Y9M0DT0H0M0S,Krokodill,kʀɔkoˈdɪl,kʀɔkoˈdɪl,"[False, False, True]","[False, False, True]"
+1006,P3Y9M0DT0H0M0S,gréng,ˈgʀeŋ,ˈgʀeŋ,[True],[True]
+1006,P3Y9M0DT0H0M0S,Gespenst,gəˈʃpænst,gəːʃtan,"[False, True]","[False, False]"
+1006,P3Y9M0DT0H0M0S,Blumm,ˈblum,ˈblum,[True],[True]
+1006,P3Y9M0DT0H0M0S,Elefant,ələˈfɑnt,ələˈfɑnt,"[False, False, True]","[False, False, True]"
+1006,P3Y9M0DT0H0M0S,Draach,ˈdʀaːx,ˈdʀaːx,[True],[True]
+1006,P3Y9M0DT0H0M0S,Banane,bɑˈnɑn,bɑˈnɑn,"[False, True]","[False, True]"
+1006,P3Y9M0DT0H0M0S,Bagger,ˈbɑgɐ,ˈbɑgɐ,"[True, False]","[True, False]"
+1006,P3Y9M0DT0H0M0S,giel,ˈgiəl,ˈgiəl,[True],[True]
+1006,P3Y9M0DT0H0M0S,Gebuerʦdag,gəˈbuːɐʦdaːx,gəˈbuːɐʦdaːx,"[False, True, False]","[False, True, False]"
+1006,P3Y9M0DT0H0M0S,Jackett,ˈʒɑkæt,ˈʒɑkæt,"[True, False]","[True, False]"
+1006,P3Y9M0DT0H0M0S,Rank,ˈʀɑŋk,ˈʀɑŋk,[True],[True]
+1006,P3Y9M0DT0H0M0S,Bild,ˈbilt,ˈbilt,[True],[True]
+1006,P3Y9M0DT0H0M0S,Päiperlek,ˈpæːɪpɐlek,ˈpæːɪpɐlek,"[True, False, False]","[True, False, False]"
+1006,P3Y9M0DT0H0M0S,Bänk,ˈbæŋk,ˈbæŋk,[True],[True]
+1006,P3Y9M0DT0H0M0S,Trampolin,ˈtʀɑmpoːlɪn,ˈtʀɑmpoːlɪn,"[True, False, False]","[True, False, False]"
+1006,P3Y9M0DT0H0M0S,Trottinette,ˈtʀotɪnæt,ˈtʀotɪnæt,"[True, False, False]","[True, False, False]"
+1006,P3Y9M0DT0H0M0S,Buch,ˈbux,ˈbux,[True],[True]
+1006,P3Y9M0DT0H0M0S,Sprëtz,ˈʃpʀəʦ,ˈʃpʀəʦ,[True],[True]
+1006,P3Y9M0DT0H0M0S,Jeeër,ˈjeːɐ,ˈjeːɐ,[True],[True]
+1006,P3Y9M0DT0H0M0S,Glas,ˈglaːs,ˈglaːs,[True],[True]
+1006,P3Y9M0DT0H0M0S,Schëff,ˈʃəf,ˈʃəf,[True],[True]
+1006,P3Y9M0DT0H0M0S,Schwäin,ˈʃwæːɪn,ˈʃwæːɪn,[True],[True]
+1006,P3Y9M0DT0H0M0S,Auto,ˈɑʊto,ˈɑʊto,"[True, False]","[True, False]"
+1006,P3Y9M0DT0H0M0S,blo,ˈbloː,ˈbloː,[True],[True]
+1006,P3Y9M0DT0H0M0S,Sak,ˈzaːk,ˈzaːk,[True],[True]
+1006,P3Y9M0DT0H0M0S,Plooschter,ˈploːʃtɐ,ˈploːʃtɐ,"[True, False]","[True, False]"
+1006,P3Y9M0DT0H0M0S,Trakter,ˈtʀɑktɐ,ˈtʀɑktɐ,"[True, False]","[True, False]"
+1006,P3Y9M0DT0H0M0S,Schaf,ˈʃaːf,ˈʃaːf,[True],[True]
+1006,P3Y9M0DT0H0M0S,Apel,ˈaːpəl,ˈaːpəl,"[True, False]","[True, False]"
+1006,P3Y9M0DT0H0M0S,Schéier,ˈʃɜɪɐ,ˈʃɜɪɐ,[True],[True]
+1006,P3Y9M0DT0H0M0S,Zaang,ˈʦaːŋ,ˈʦaːŋ,[True],[True]
+1006,P3Y9M0DT0H0M0S,Cadeau,ˈkɑdoː,ˈkɑdoː,"[True, False]","[True, False]"
+1006,P3Y9M0DT0H0M0S,Fënster,ˈfənstɐ,ˈfənstɐ,"[True, False]","[True, False]"
+1006,P3Y9M0DT0H0M0S,Brëll,ˈbʀəl,ˈbʀəl,[True],[True]
+1006,P3Y9M0DT0H0M0S,Schlaang,ˈʃlaːŋ,ˈʃlaːŋ,[True],[True]
+1006,P3Y9M0DT0H0M0S,Gras,ˈgʀaːs,ˈgʀaːs,[True],[True]
+1006,P3Y9M0DT0H0M0S,Fräsch,ˈfʀæʃ,ˈfʀæʃ,[True],[True]
+1006,P3Y9M0DT0H0M0S,Hex,ˈhæks,ˈhæks,[True],[True]
+1006,P3Y9M0DT0H0M0S,Zwerg,ˈʦwɛʁɕ,ˈʦwɛʁɕ,[True],[True]
+1006,P3Y9M0DT0H0M0S,Päerd,ˈpɛːɐt,ˈpɛːɐt,[True],[True]
+1006,P3Y9M0DT0H0M0S,Wipp,ˈvip,ˈvip,[True],[True]
+1006,P3Y9M0DT0H0M0S,Giraff,ʒɪˈʀɑf,ʒɪˈʀɑf,"[False, True]","[False, True]"
+1006,P3Y9M0DT0H0M0S,Kuerf,ˈkuəf,ˈkuəf,[True],[True]
+1006,P3Y9M0DT0H0M0S,Gittar,ˈgitaːʁ,ˈgitaːʁ,"[True, False]","[True, False]"
+1006,P3Y9M0DT0H0M0S,Schlëssel,ˈʃləsəl,ˈʃləsəl,"[True, False]","[True, False]"
+1006,P3Y9M0DT0H0M0S,Dusch,ˈdʊʃ,ˈdʊʃ,[True],[True]
+1006,P3Y9M0DT0H0M0S,Papagei,ˈpɑpagɑɪ,ˈpɑpagɑɪ,"[True, False, False]","[True, False, False]"
+1006,P3Y9M0DT0H0M0S,Luʦch,ˈlutʃ,ˈlutʃ,[True],[True]
+1006,P3Y9M0DT0H0M0S,Schmier,ˈʃmiːɐ,ˈʃmiːɐ,[True],[True]
+1006,P3Y9M0DT0H0M0S,Spaghetti,ʃpɑˈgætɪ,ʃpɑˈgætɪ,"[False, True, False]","[False, True, False]"
+1006,P3Y9M0DT0H0M0S,Noss,ˈnos,ˈnos,[True],[True]
+3024,P3Y9M0DT0H0M0S,Noss,ˈnos,ˈnos,[True],[True]
+3024,P3Y9M0DT0H0M0S,Forschett,ˈfɔʁʃæt,ˈfɔʁʃæt,"[True, False]","[True, False]"
+3024,P3Y9M0DT0H0M0S,Hand,ˈhɑnt,ˈhɑnt,[True],[True]
+3024,P3Y9M0DT0H0M0S,Posch,ˈpoʃ,ˈpoʃ,[True],[True]
+3024,P3Y9M0DT0H0M0S,Lut,ˈluːt,ˈluːt,[True],[True]
+3024,P3Y9M0DT0H0M0S,Stull,ˈʃtul,ˈʃtul,[True],[True]
+3024,P3Y9M0DT0H0M0S,Plover,ˈploːvɐ,ˈploːvɐ,"[True, False]","[True, False]"
+3024,P3Y9M0DT0H0M0S,Sonn,ˈzon,ˈzon,[True],[True]
+3024,P3Y9M0DT0H0M0S,Haus,ˈhaːʊs,ˈhaːʊs,[True],[True]
+3024,P3Y9M0DT0H0M0S,Taucher,ˈtɑʊxɐ,ˈtɑʊxɐ,"[True, False]","[True, False]"
+3024,P3Y9M0DT0H0M0S,rout,ˈʀəʊt,ˈʀəʊt,[True],[True]
+3024,P3Y9M0DT0H0M0S,kleng,ˈklæŋ,ˈklæŋ,[True],[True]
+3024,P3Y9M0DT0H0M0S,Spann,ˈʃpɑn,ˈʃpɑn,[True],[True]
+3024,P3Y9M0DT0H0M0S,Telefon,ˈtələfoːn,ˈtələfɔ,"[True, False, False]","[True, False, False]"
+3024,P3Y9M0DT0H0M0S,Jong,ˈjoŋ,ˈjoŋ,[True],[True]
+3024,P3Y9M0DT0H0M0S,Kaz,ˈkaːʦ,ˈkaːs,[True],[True]
+3024,P3Y9M0DT0H0M0S,Taass,ˈtaːs,ˈtaːs,[True],[True]
+3024,P3Y9M0DT0H0M0S,Hues,ˈhuəs,ˈhuəs,[True],[True]
+3024,P3Y9M0DT0H0M0S,Schwanz,ˈʃwɑnʦ,ˈʃwɑnʦ,[True],[True]
+3024,P3Y9M0DT0H0M0S,Tromm,ˈtʀom,ˈtʀom,[True],[True]
+3024,P3Y9M0DT0H0M0S,Motorrad,ˈmotoʀaːt,ˈmotoʀaːt,"[True, False, False]","[True, False, False]"
+3024,P3Y9M0DT0H0M0S,Zitroun,ʦɪˈtʀəʊn,ʦɪˈtʀəʊn,"[False, True]","[False, True]"
+3024,P3Y9M0DT0H0M0S,Schleek,ˈʃleːk,ˈʃleːk,[True],[True]
+3024,P3Y9M0DT0H0M0S,Nascht,ˈnɑʃt,ˈnɑʃt,[True],[True]
+3024,P3Y9M0DT0H0M0S,Ruʦch,ˈʀutʃ,ˈʀutʃ,[True],[True]
+3024,P3Y9M0DT0H0M0S,Becher,ˈbæɕɐ,ˈbæɕɐ,"[True, False]","[True, False]"
+3024,P3Y9M0DT0H0M0S,Zebra,ˈʦeːbʀaː,ˈʦeːbʀaː,"[True, False]","[True, False]"
+3024,P3Y9M0DT0H0M0S,Bréif,ˈbʀɜɪf,ˈbʀɜɪf,[True],[True]
+3024,P3Y9M0DT0H0M0S,Mëllech,ˈmələɕ,ˈmələɕ,"[True, False]","[True, False]"
+3024,P3Y9M0DT0H0M0S,Fësch,ˈfəʃ,ˈfəʃ,[True],[True]
+3024,P3Y9M0DT0H0M0S,Knäpp,ˈknæp,ˈknæpan,[True],"[True, False]"
+3024,P3Y9M0DT0H0M0S,dräi,ˈdʀæːɪ,ˈdʀæːɪ,[True],[True]
+3024,P3Y9M0DT0H0M0S,Krokodill,kʀɔkoˈdɪl,kʀɔkoˈdɪl,"[False, False, True]","[False, False, True]"
+3024,P3Y9M0DT0H0M0S,Fläsch,ˈflæʃ,ˈflæʃ,[True],[True]
+3024,P3Y9M0DT0H0M0S,Police,ˈpolɪs,ˈpolɪs,"[True, False]","[True, False]"
+3024,P3Y9M0DT0H0M0S,Gespenst,gəˈʃpænst,gəˈʃpænst,"[False, True]","[False, True]"
+3024,P3Y9M0DT0H0M0S,Blumm,ˈblum,ˈblum,[True],[True]
+3024,P3Y9M0DT0H0M0S,Elefant,ələˈfɑnt,ələˈfɑnt,"[False, False, True]","[False, False, True]"
+3024,P3Y9M0DT0H0M0S,Bagger,ˈbɑgɐ,ˈbɑgɐ,"[True, False]","[True, False]"
+3024,P3Y9M0DT0H0M0S,Banane,bɑˈnɑn,bɑˈnɑn,"[False, True]","[False, True]"
+3024,P3Y9M0DT0H0M0S,Draach,ˈdʀaːx,ˈdʀaːx,[True],[True]
+3024,P3Y9M0DT0H0M0S,giel,ˈgiəl,ˈgiəl,[True],[True]
+3024,P3Y9M0DT0H0M0S,Gebuerʦdag,gəˈbuːɐʦdaːx,gəˈbuːɐʦdaːx,"[False, True, False]","[False, True, False]"
+3024,P3Y9M0DT0H0M0S,Jackett,ˈʒɑkæt,ˈʒɑkæt,"[True, False]","[True, False]"
+3024,P3Y9M0DT0H0M0S,Päiperlek,ˈpæːɪpɐlek,ˈpæːɪpɐlek,"[True, False, False]","[True, False, False]"
+3024,P3Y9M0DT0H0M0S,Bild,ˈbilt,ˈbilt,[True],[True]
+3024,P3Y9M0DT0H0M0S,Rank,ˈʀɑŋk,ˈʀɑŋk,[True],[True]
+3024,P3Y9M0DT0H0M0S,Trottinette,ˈtʀotɪnæt,ˈtʀotɪnæt,"[True, False, False]","[True, False, False]"
+3024,P3Y9M0DT0H0M0S,Trampolin,ˈtʀɑmpoːlɪn,ˈtʀɑmpoːlɪn,"[True, False, False]","[True, False, False]"
+3024,P3Y9M0DT0H0M0S,Bänk,ˈbæŋk,ˈbæŋk,[True],[True]
+3024,P3Y9M0DT0H0M0S,Jeeër,ˈjeːɐ,ˈjeːɐ,[True],[True]
+3024,P3Y9M0DT0H0M0S,Sprëtz,ˈʃpʀəʦ,ˈʃpʀəʦ,[True],[True]
+3024,P3Y9M0DT0H0M0S,Buch,ˈbux,ˈbux,[True],[True]
+3024,P3Y9M0DT0H0M0S,Glas,ˈglaːs,ˈglaːs,[True],[True]
+3024,P3Y9M0DT0H0M0S,Waasser,ˈvaːsɐ,ˈvaːsɐ,"[True, False]","[True, False]"
+3024,P3Y9M0DT0H0M0S,Schëff,ˈʃəf,ˈʃəf,[True],[True]
+3024,P3Y9M0DT0H0M0S,Schwäin,ˈʃwæːɪn,ˈʃwæːɪn,[True],[True]
+3024,P3Y9M0DT0H0M0S,Sak,ˈzaːk,ˈzaːk,[True],[True]
+3024,P3Y9M0DT0H0M0S,Auto,ˈɑʊto,ˈɑʊto,"[True, False]","[True, False]"
+3024,P3Y9M0DT0H0M0S,blo,ˈbloː,ˈbloː,[True],[True]
+3024,P3Y9M0DT0H0M0S,Plooschter,ˈploːʃtɐ,ˈploːʃtɐ,"[True, False]","[True, False]"
+3024,P3Y9M0DT0H0M0S,Trakter,ˈtʀɑktɐ,ˈtʀɑktɐ,"[True, False]","[True, False]"
+3024,P3Y9M0DT0H0M0S,Schaf,ˈʃaːf,ˈʃaːf,[True],[True]
+3024,P3Y9M0DT0H0M0S,Apel,ˈaːpəl,ˈaːpəl,"[True, False]","[True, False]"
+3024,P3Y9M0DT0H0M0S,Zaang,ˈʦaːŋ,ˈʦaːŋ,[True],[True]
+3024,P3Y9M0DT0H0M0S,Schéier,ˈʃɜɪɐ,ˈʃɜɪɐ,[True],[True]
+3024,P3Y9M0DT0H0M0S,Brëll,ˈbʀəl,ˈbʀəl,[True],[True]
+3024,P3Y9M0DT0H0M0S,Cadeau,ˈkɑdoː,ˈkɑdoː,"[True, False]","[True, False]"
+3024,P3Y9M0DT0H0M0S,Fënster,ˈfənstɐ,ˈfənstɐ,"[True, False]","[True, False]"
+3024,P3Y9M0DT0H0M0S,Schlaang,ˈʃlaːŋ,ˈʃlaːŋ,[True],[True]
+3024,P3Y9M0DT0H0M0S,gréng,ˈgʀeŋ,ˈgʀeŋ,[True],[True]
+3024,P3Y9M0DT0H0M0S,Gras,ˈgʀaːs,ˈgʀaːs,[True],[True]
+3024,P3Y9M0DT0H0M0S,Fräsch,ˈfʀæʃ,ˈfʀæʃ,[True],[True]
+3024,P3Y9M0DT0H0M0S,Hex,ˈhæks,ˈhæks,[True],[True]
+3024,P3Y9M0DT0H0M0S,Quak,ˈkwaːk,ˈkwaːk,[True],[True]
+3024,P3Y9M0DT0H0M0S,Zwerg,ˈʦwɛʁɕ,ˈʃwæχʃ,[True],[True]
+3024,P3Y9M0DT0H0M0S,Wipp,ˈvip,ˈvip,[True],[True]
+3024,P3Y9M0DT0H0M0S,Päerd,ˈpɛːɐt,ˈpɛːɐt,[True],[True]
+3024,P3Y9M0DT0H0M0S,Giraff,ʒɪˈʀɑf,ʒɪˈʀɑf,"[False, True]","[False, True]"
+3024,P3Y9M0DT0H0M0S,Schlëssel,ˈʃləsəl,ˈʃləsəl,"[True, False]","[True, False]"
+3024,P3Y9M0DT0H0M0S,Kuerf,ˈkuəf,ˈkuəf,[True],[True]
+3024,P3Y9M0DT0H0M0S,Gittar,ˈgitaːʁ,ˈgitaːʁ,"[True, False]","[True, False]"
+3024,P3Y9M0DT0H0M0S,Dusch,ˈdʊʃ,ˈdʊʃ,[True],[True]
+3024,P3Y9M0DT0H0M0S,Schmier,ˈʃmiːɐ,ˈʃmiːɐ,[True],[True]
+3024,P3Y9M0DT0H0M0S,Luʦch,ˈlutʃ,ˈlʏtʃ,[True],[True]
+3024,P3Y9M0DT0H0M0S,Papagei,ˈpɑpagɑɪ,ˈpɑpagɑɪ,"[True, False, False]","[True, False, False]"
+3024,P3Y9M0DT0H0M0S,Spaghetti,ʃpɑˈgætɪ,ʃpɑˈgætɪ,"[False, True, False]","[False, True, False]"
+2017,P4Y3M0DT0H0M0S,Spaghetti,ʃpɑˈgætɪ,ʃpɑˈgætɪ,"[False, True, False]","[False, True, False]"
+2017,P4Y3M0DT0H0M0S,Hand,ˈhɑnt,ˈhɑnt,[True],[True]
+2017,P4Y3M0DT0H0M0S,Forschett,ˈfɔʁʃæt,ˈfɔʁʃæt,"[True, False]","[True, False]"
+2017,P4Y3M0DT0H0M0S,Posch,ˈpoʃ,ˈpoʃ,[True],[True]
+2017,P4Y3M0DT0H0M0S,Lut,ˈluːt,ˈluːt,[True],[True]
+2017,P4Y3M0DT0H0M0S,Sonn,ˈzon,ˈzon,[True],[True]
+2017,P4Y3M0DT0H0M0S,Plover,ˈploːvɐ,ˈploːvɐ,"[True, False]","[True, False]"
+2017,P4Y3M0DT0H0M0S,Stull,ˈʃtul,ˈstʊl,[True],[True]
+2017,P4Y3M0DT0H0M0S,Haus,ˈhaːʊs,ˈhaːʊs,[True],[True]
+2017,P4Y3M0DT0H0M0S,Taucher,ˈtɑʊxɐ,ˈtɑʊxɐ,"[True, False]","[True, False]"
+2017,P4Y3M0DT0H0M0S,rout,ˈʀəʊt,ˈʀəʊt,[True],[True]
+2017,P4Y3M0DT0H0M0S,kleng,ˈklæŋ,ˈklæŋ,[True],[True]
+2017,P4Y3M0DT0H0M0S,Spann,ˈʃpɑn,ˈʃpɑn,[True],[True]
+2017,P4Y3M0DT0H0M0S,Telefon,ˈtələfoːn,ˈtələfoːn,"[True, False, False]","[True, False, False]"
+2017,P4Y3M0DT0H0M0S,Jong,ˈjoŋ,ˈjoŋ,[True],[True]
+2017,P4Y3M0DT0H0M0S,Kaz,ˈkaːʦ,ˈkaːʦ,[True],[True]
+2017,P4Y3M0DT0H0M0S,Taass,ˈtaːs,ˈtaːs,[True],[True]
+2017,P4Y3M0DT0H0M0S,Schwanz,ˈʃwɑnʦ,ˈʃwɑnʦ,[True],[True]
+2017,P4Y3M0DT0H0M0S,Hues,ˈhuəs,ˈhuəs,[True],[True]
+2017,P4Y3M0DT0H0M0S,Luʦch,ˈlutʃ,ˈlutʃ,[True],[True]
+2017,P4Y3M0DT0H0M0S,Motorrad,ˈmotoʀaːt,ˈmɔtoʀ,"[True, False, False]","[True, False]"
+2017,P4Y3M0DT0H0M0S,Schleek,ˈʃleːk,ˈʃleːk,[True],[True]
+2017,P4Y3M0DT0H0M0S,Tromm,ˈtʀom,ˈʀɔməl,[True],"[True, False]"
+2017,P4Y3M0DT0H0M0S,Zitroun,ʦɪˈtʀəʊn,tʃɪtʀəʊn,"[False, True]","[False, False]"
+2017,P4Y3M0DT0H0M0S,Nascht,ˈnɑʃt,ˈnɑʃt,[True],[True]
+2017,P4Y3M0DT0H0M0S,Becher,ˈbæɕɐ,ˈbæɕɐ,"[True, False]","[True, False]"
+2017,P4Y3M0DT0H0M0S,Ruʦch,ˈʀutʃ,ˈʀutʃ,[True],[True]
+2017,P4Y3M0DT0H0M0S,Zebra,ˈʦeːbʀaː,ˈʦeːbʀaː,"[True, False]","[True, False]"
+2017,P4Y3M0DT0H0M0S,Bréif,ˈbʀɜɪf,ˈbʀɜɪf,[True],[True]
+2017,P4Y3M0DT0H0M0S,Fësch,ˈfəʃ,ˈfəʃ,[True],[True]
+2017,P4Y3M0DT0H0M0S,Mëllech,ˈmələɕ,ˈmələɕ,"[True, False]","[True, False]"
+2017,P4Y3M0DT0H0M0S,Knäpp,ˈknæp,ˈknæptən,[True],"[True, False]"
+2017,P4Y3M0DT0H0M0S,dräi,ˈdʀæːɪ,ˈdʀæːɪ,[True],[True]
+2017,P4Y3M0DT0H0M0S,Police,ˈpolɪs,ˈpolɪs,"[True, False]","[True, False]"
+2017,P4Y3M0DT0H0M0S,Fläsch,ˈflæʃ,ˈflæʃ,[True],[True]
+2017,P4Y3M0DT0H0M0S,Krokodill,kʀɔkoˈdɪl,kʀɔdɪl,"[False, False, True]","[False, False]"
+2017,P4Y3M0DT0H0M0S,gréng,ˈgʀeŋ,ˈgʀeŋ,[True],[True]
+2017,P4Y3M0DT0H0M0S,Elefant,ələˈfɑnt,ələˈfɑnt,"[False, False, True]","[False, False, True]"
+2017,P4Y3M0DT0H0M0S,Blumm,ˈblum,ˈblum,[True],[True]
+2017,P4Y3M0DT0H0M0S,Gespenst,gəˈʃpænst,gəˈʃpænst,"[False, True]","[False, True]"
+2017,P4Y3M0DT0H0M0S,Draach,ˈdʀaːx,ˈdʀaːx,[True],[True]
+2017,P4Y3M0DT0H0M0S,Banane,bɑˈnɑn,bɑˈnɑn,"[False, True]","[False, True]"
+2017,P4Y3M0DT0H0M0S,Bagger,ˈbɑgɐ,ˈbɑgɐ,"[True, False]","[True, False]"
+2017,P4Y3M0DT0H0M0S,giel,ˈgiəl,ˈgiəl,[True],[True]
+2017,P4Y3M0DT0H0M0S,Gebuerʦdag,gəˈbuːɐʦdaːx,gəˈbuːɐʦdaːx,"[False, True, False]","[False, True, False]"
+2017,P4Y3M0DT0H0M0S,Jackett,ˈʒɑkæt,ˈʒɑkæt,"[True, False]","[True, False]"
+2017,P4Y3M0DT0H0M0S,Päiperlek,ˈpæːɪpɐlek,ˈpæːɪpɐlek,"[True, False, False]","[True, False, False]"
+2017,P4Y3M0DT0H0M0S,Bild,ˈbilt,ˈbilt,[True],[True]
+2017,P4Y3M0DT0H0M0S,Rank,ˈʀɑŋk,ˈʀɑŋk,[True],[True]
+2017,P4Y3M0DT0H0M0S,Bänk,ˈbæŋk,ˈbæŋk,[True],[True]
+2017,P4Y3M0DT0H0M0S,Trampolin,ˈtʀɑmpoːlɪn,ˈtʀɑmpoːlɪn,"[True, False, False]","[True, False, False]"
+2017,P4Y3M0DT0H0M0S,Trottinette,ˈtʀotɪnæt,ˈtʀotɪnæt,"[True, False, False]","[True, False, False]"
+2017,P4Y3M0DT0H0M0S,Buch,ˈbux,ˈbux,[True],[True]
+2017,P4Y3M0DT0H0M0S,Jeeër,ˈjeːɐ,ˈheər,[True],[True]
+2017,P4Y3M0DT0H0M0S,Schëff,ˈʃəf,ˈʃəf,[True],[True]
+2017,P4Y3M0DT0H0M0S,Glas,ˈglaːs,ˈglaːs,[True],[True]
+2017,P4Y3M0DT0H0M0S,Auto,ˈɑʊto,ˈɑʊto,"[True, False]","[True, False]"
+2017,P4Y3M0DT0H0M0S,blo,ˈbloː,ˈbloː,[True],[True]
+2017,P4Y3M0DT0H0M0S,Schwäin,ˈʃwæːɪn,ˈʃwæːɪn,[True],[True]
+2017,P4Y3M0DT0H0M0S,Sak,ˈzaːk,ˈzaːk,[True],[True]
+2017,P4Y3M0DT0H0M0S,Plooschter,ˈploːʃtɐ,ˈploːʃtɐ,"[True, False]","[True, False]"
+2017,P4Y3M0DT0H0M0S,Trakter,ˈtʀɑktɐ,ˈtʀɑktɐ,"[True, False]","[True, False]"
+2017,P4Y3M0DT0H0M0S,Schaf,ˈʃaːf,ˈʃaːf,[True],[True]
+2017,P4Y3M0DT0H0M0S,Apel,ˈaːpəl,ˈaːpəl,"[True, False]","[True, False]"
+2017,P4Y3M0DT0H0M0S,Schéier,ˈʃɜɪɐ,ˈʃɜɪɐ,[True],[True]
+2017,P4Y3M0DT0H0M0S,Zaang,ˈʦaːŋ,ˈʦaːŋ,[True],[True]
+2017,P4Y3M0DT0H0M0S,Cadeau,ˈkɑdoː,ˈkɑdoː,"[True, False]","[True, False]"
+2017,P4Y3M0DT0H0M0S,Fënster,ˈfənstɐ,ˈfənstɐ,"[True, False]","[True, False]"
+2017,P4Y3M0DT0H0M0S,Brëll,ˈbʀəl,ˈbʀəl,[True],[True]
+2017,P4Y3M0DT0H0M0S,Gras,ˈgʀaːs,ˈgʀaːs,[True],[True]
+2017,P4Y3M0DT0H0M0S,Schlaang,ˈʃlaːŋ,ˈʃlaːŋ,[True],[True]
+2017,P4Y3M0DT0H0M0S,Hex,ˈhæks,ˈhæks,[True],[True]
+2017,P4Y3M0DT0H0M0S,Fräsch,ˈfʀæʃ,ˈfʀæʃ,[True],[True]
+2017,P4Y3M0DT0H0M0S,Quak,ˈkwaːk,ˈwaːk,[True],[True]
+2017,P4Y3M0DT0H0M0S,Zwerg,ˈʦwɛʁɕ,ʃwæχʃ,[True],[False]
+2017,P4Y3M0DT0H0M0S,Päerd,ˈpɛːɐt,ˈpɛːɐt,[True],[True]
+2017,P4Y3M0DT0H0M0S,Wipp,ˈvip,ˈvip,[True],[True]
+2017,P4Y3M0DT0H0M0S,Noss,ˈnos,ˈnos,[True],[True]
+2017,P4Y3M0DT0H0M0S,Giraff,ʒɪˈʀɑf,ʒɪˈʀɑf,"[False, True]","[False, True]"
+2017,P4Y3M0DT0H0M0S,Kuerf,ˈkuəf,ˈkuəf,[True],[True]
+2017,P4Y3M0DT0H0M0S,Schlëssel,ˈʃləsəl,ˈʃləsəl,"[True, False]","[True, False]"
+2017,P4Y3M0DT0H0M0S,Dusch,ˈdʊʃ,ˈdʊʃ,[True],[True]
+2017,P4Y3M0DT0H0M0S,Gittar,ˈgitaːʁ,ˈgitaːʁ,"[True, False]","[True, False]"
+2017,P4Y3M0DT0H0M0S,Papagei,ˈpɑpagɑɪ,ˈpɑpagɑɪ,"[True, False, False]","[True, False, False]"
+2017,P4Y3M0DT0H0M0S,Schmier,ˈʃmiːɐ,ˈʃmiːɐ,[True],[True]
+2017,P4Y3M0DT0H0M0S,Sprëtz,ˈʃpʀəʦ,ˈʃpʀəʦ,[True],[True]
+2017,P4Y3M0DT0H0M0S,Waasser,ˈvaːsɐ,ˈvaːsɐ,"[True, False]","[True, False]"
+2011,P4Y5M0DT0H0M0S,Bréif,ˈbʀɜɪf,ˈbʀɜɪf,[True],[True]
+2011,P4Y5M0DT0H0M0S,Zebra,ˈʦeːbʀaː,ˈʦeːbʀaː,"[True, False]","[True, False]"
+2011,P4Y5M0DT0H0M0S,Posch,ˈpoʃ,ˈpoʃ,[True],[True]
+2011,P4Y5M0DT0H0M0S,Forschett,ˈfɔʁʃæt,ˈfɔʁʃæt,"[True, False]","[True, False]"
+2011,P4Y5M0DT0H0M0S,Hand,ˈhɑnt,ˈhɑnt,[True],[True]
+2011,P4Y5M0DT0H0M0S,Lut,ˈluːt,ˈluːt,[True],[True]
+2011,P4Y5M0DT0H0M0S,Sonn,ˈzon,ˈzon,[True],[True]
+2011,P4Y5M0DT0H0M0S,Plover,ˈploːvɐ,ˈploːvɐ,"[True, False]","[True, False]"
+2011,P4Y5M0DT0H0M0S,Stull,ˈʃtul,ˈʃtul,[True],[True]
+2011,P4Y5M0DT0H0M0S,Taucher,ˈtɑʊxɐ,ˈtɑʊxɐ,"[True, False]","[True, False]"
+2011,P4Y5M0DT0H0M0S,Haus,ˈhaːʊs,ˈhaːʊs,[True],[True]
+2011,P4Y5M0DT0H0M0S,rout,ˈʀəʊt,ˈʀəʊt,[True],[True]
+2011,P4Y5M0DT0H0M0S,kleng,ˈklæŋ,ˈklæŋ,[True],[True]
+2011,P4Y5M0DT0H0M0S,Jong,ˈjoŋ,ˈjoŋ,[True],[True]
+2011,P4Y5M0DT0H0M0S,Telefon,ˈtələfoːn,ˈtələfoːn,"[True, False, False]","[True, False, False]"
+2011,P4Y5M0DT0H0M0S,Spann,ˈʃpɑn,ˈʃpɑn,[True],[True]
+2011,P4Y5M0DT0H0M0S,Hues,ˈhuəs,ˈhuəs,[True],[True]
+2011,P4Y5M0DT0H0M0S,Kaz,ˈkaːʦ,ˈkaːʦ,[True],[True]
+2011,P4Y5M0DT0H0M0S,Schwanz,ˈʃwɑnʦ,ˈʃwɑnʦ,[True],[True]
+2011,P4Y5M0DT0H0M0S,Taass,ˈtaːs,ˈtaːs,[True],[True]
+2011,P4Y5M0DT0H0M0S,Tromm,ˈtʀom,ˈtʀɔməl,[True],"[True, False]"
+2011,P4Y5M0DT0H0M0S,Motorrad,ˈmotoʀaːt,ˈmotoʀaːt,"[True, False, False]","[True, False, False]"
+2011,P4Y5M0DT0H0M0S,Schleek,ˈʃleːk,ˈfleːk,[True],[True]
+2011,P4Y5M0DT0H0M0S,Ruʦch,ˈʀutʃ,ˈʀutʃ,[True],[True]
+2011,P4Y5M0DT0H0M0S,Nascht,ˈnɑʃt,ˈnɑʃt,[True],[True]
+2011,P4Y5M0DT0H0M0S,Zitroun,ʦɪˈtʀəʊn,ʦɪˈtʀəʊn,"[False, True]","[False, True]"
+2011,P4Y5M0DT0H0M0S,Becher,ˈbæɕɐ,ˈbæɕɐ,"[True, False]","[True, False]"
+2011,P4Y5M0DT0H0M0S,Waasser,ˈvaːsɐ,ˈvaːsɐ,"[True, False]","[True, False]"
+2011,P4Y5M0DT0H0M0S,Knäpp,ˈknæp,ˈknæp,[True],[True]
+2011,P4Y5M0DT0H0M0S,dräi,ˈdʀæːɪ,ˈdʀæːɪ,[True],[True]
+2011,P4Y5M0DT0H0M0S,Fësch,ˈfəʃ,ˈfəʃ,[True],[True]
+2011,P4Y5M0DT0H0M0S,Mëllech,ˈmələɕ,ˈmələɕ,"[True, False]","[True, False]"
+2011,P4Y5M0DT0H0M0S,Police,ˈpolɪs,ˈpɔlitstːst,"[True, False]","[True, False]"
+2011,P4Y5M0DT0H0M0S,Fläsch,ˈflæʃ,ˈflæʃ,[True],[True]
+2011,P4Y5M0DT0H0M0S,Krokodill,kʀɔkoˈdɪl,kʀɔkoˈdɪl,"[False, False, True]","[False, False, True]"
+2011,P4Y5M0DT0H0M0S,gréng,ˈgʀeŋ,ˈgʀeŋ,[True],[True]
+2011,P4Y5M0DT0H0M0S,Elefant,ələˈfɑnt,ələˈfɑnt,"[False, False, True]","[False, False, True]"
+2011,P4Y5M0DT0H0M0S,Blumm,ˈblum,ˈblum,[True],[True]
+2011,P4Y5M0DT0H0M0S,Gespenst,gəˈʃpænst,gəˈʃpænst,"[False, True]","[False, True]"
+2011,P4Y5M0DT0H0M0S,Bagger,ˈbɑgɐ,ˈbɑgɐ,"[True, False]","[True, False]"
+2011,P4Y5M0DT0H0M0S,Banane,bɑˈnɑn,bɑˈnɑn,"[False, True]","[False, True]"
+2011,P4Y5M0DT0H0M0S,Draach,ˈdʀaːx,ˈdʀaːx,[True],[True]
+2011,P4Y5M0DT0H0M0S,giel,ˈgiəl,ˈgiəl,[True],[True]
+2011,P4Y5M0DT0H0M0S,Gebuerʦdag,gəˈbuːɐʦdaːx,gəˈbuːɐʦdaːx,"[False, True, False]","[False, True, False]"
+2011,P4Y5M0DT0H0M0S,Jackett,ˈʒɑkæt,ˈʒɑkæt,"[True, False]","[True, False]"
+2011,P4Y5M0DT0H0M0S,Rank,ˈʀɑŋk,ˈʀeŋ,[True],[True]
+2011,P4Y5M0DT0H0M0S,Bild,ˈbilt,ˈbilt,[True],[True]
+2011,P4Y5M0DT0H0M0S,Bänk,ˈbæŋk,ˈbæŋk,[True],[True]
+2011,P4Y5M0DT0H0M0S,Päiperlek,ˈpæːɪpɐlek,ˈpæːɪpɐlek,"[True, False, False]","[True, False, False]"
+2011,P4Y5M0DT0H0M0S,Trampolin,ˈtʀɑmpoːlɪn,ˈtʀɑmpoːlɪn,"[True, False, False]","[True, False, False]"
+2011,P4Y5M0DT0H0M0S,Trottinette,ˈtʀotɪnæt,ˈtʀotɪnæt,"[True, False, False]","[True, False, False]"
+2011,P4Y5M0DT0H0M0S,Buch,ˈbux,ˈbux,[True],[True]
+2011,P4Y5M0DT0H0M0S,Sprëtz,ˈʃpʀəʦ,ˈʃpʀəʦ,[True],[True]
+2011,P4Y5M0DT0H0M0S,Jeeër,ˈjeːɐ,ˈjeːɐ,[True],[True]
+2011,P4Y5M0DT0H0M0S,Glas,ˈglaːs,ˈglaːs,[True],[True]
+2011,P4Y5M0DT0H0M0S,Schëff,ˈʃəf,ˈʃəf,[True],[True]
+2011,P4Y5M0DT0H0M0S,Auto,ˈɑʊto,ˈɑʊto,"[True, False]","[True, False]"
+2011,P4Y5M0DT0H0M0S,Schwäin,ˈʃwæːɪn,ˈʃwæːɪn,[True],[True]
+2011,P4Y5M0DT0H0M0S,Sak,ˈzaːk,ˈzaːk,[True],[True]
+2011,P4Y5M0DT0H0M0S,blo,ˈbloː,ˈbloː,[True],[True]
+2011,P4Y5M0DT0H0M0S,Plooschter,ˈploːʃtɐ,ˈploːʃtɐ,"[True, False]","[True, False]"
+2011,P4Y5M0DT0H0M0S,Trakter,ˈtʀɑktɐ,ˈtʀɑktɐ,"[True, False]","[True, False]"
+2011,P4Y5M0DT0H0M0S,Schaf,ˈʃaːf,ˈʃaːf,[True],[True]
+2011,P4Y5M0DT0H0M0S,Apel,ˈaːpəl,ˈaːpəl,"[True, False]","[True, False]"
+2011,P4Y5M0DT0H0M0S,Zaang,ˈʦaːŋ,ˈʦaːŋ,[True],[True]
+2011,P4Y5M0DT0H0M0S,Schéier,ˈʃɜɪɐ,ˈʃɜɪɐ,[True],[True]
+2011,P4Y5M0DT0H0M0S,Cadeau,ˈkɑdoː,ˈkɑdoː,"[True, False]","[True, False]"
+2011,P4Y5M0DT0H0M0S,Fënster,ˈfənstɐ,ˈfənstɐ,"[True, False]","[True, False]"
+2011,P4Y5M0DT0H0M0S,Brëll,ˈbʀəl,ˈbʀəl,[True],[True]
+2011,P4Y5M0DT0H0M0S,Gras,ˈgʀaːs,ˈgʀaːs,[True],[True]
+2011,P4Y5M0DT0H0M0S,Schlaang,ˈʃlaːŋ,ˈʃlaːŋ,[True],[True]
+2011,P4Y5M0DT0H0M0S,Hex,ˈhæks,ˈhæks,[True],[True]
+2011,P4Y5M0DT0H0M0S,Fräsch,ˈfʀæʃ,ˈfʀæʃ,[True],[True]
+2011,P4Y5M0DT0H0M0S,Zwerg,ˈʦwɛʁɕ,ˈʦwæχk,[True],[True]
+2011,P4Y5M0DT0H0M0S,Quak,ˈkwaːk,ˈkwaːk,[True],[True]
+2011,P4Y5M0DT0H0M0S,Päerd,ˈpɛːɐt,ˈpɛːɐt,[True],[True]
+2011,P4Y5M0DT0H0M0S,Wipp,ˈvip,ˈvip,[True],[True]
+2011,P4Y5M0DT0H0M0S,Noss,ˈnos,ˈnos,[True],[True]
+2011,P4Y5M0DT0H0M0S,Giraff,ʒɪˈʀɑf,ʒɪˈʀɑf,"[False, True]","[False, True]"
+2011,P4Y5M0DT0H0M0S,Kuerf,ˈkuəf,ˈkuəf,[True],[True]
+2011,P4Y5M0DT0H0M0S,Schlëssel,ˈʃləsəl,ˈʃləsəl,"[True, False]","[True, False]"
+2011,P4Y5M0DT0H0M0S,Dusch,ˈdʊʃ,ˈdʊʃ,[True],[True]
+2011,P4Y5M0DT0H0M0S,Gittar,ˈgitaːʁ,ˈgitaːʁ,"[True, False]","[True, False]"
+2011,P4Y5M0DT0H0M0S,Spaghetti,ʃpɑˈgætɪ,ʃpɑˈgætɪ,"[False, True, False]","[False, True, False]"
+2011,P4Y5M0DT0H0M0S,Schmier,ˈʃmiːɐ,ˈʃmiːɐ,[True],[True]
+2011,P4Y5M0DT0H0M0S,Luʦch,ˈlutʃ,ˈlutʃ,[True],[True]
+2011,P4Y5M0DT0H0M0S,Papagei,ˈpɑpagɑɪ,ˈpɑpagɑɪ,"[True, False, False]","[True, False, False]"
+2027,P3Y6M0DT0H0M0S,Posch,ˈpoʃ,ˈpɔs,[True],[True]
+2027,P3Y6M0DT0H0M0S,Forschett,ˈfɔʁʃæt,ˈfɔχsæt,"[True, False]","[True, False]"
+2027,P3Y6M0DT0H0M0S,Hand,ˈhɑnt,ˈhɑnt,[True],[True]
+2027,P3Y6M0DT0H0M0S,Lut,ˈluːt,ˈluːt,[True],[True]
+2027,P3Y6M0DT0H0M0S,Sonn,ˈzon,ˈzon,[True],[True]
+2027,P3Y6M0DT0H0M0S,Plover,ˈploːvɐ,ˈploːvɐ,"[True, False]","[True, False]"
+2027,P3Y6M0DT0H0M0S,Stull,ˈʃtul,ˈstʊl,[True],[True]
+2027,P3Y6M0DT0H0M0S,Haus,ˈhaːʊs,ˈhaːʊs,[True],[True]
+2027,P3Y6M0DT0H0M0S,Taucher,ˈtɑʊxɐ,ˈtɑʊxɐ,"[True, False]","[True, False]"
+2027,P3Y6M0DT0H0M0S,rout,ˈʀəʊt,ˈʀəʊt,[True],[True]
+2027,P3Y6M0DT0H0M0S,kleng,ˈklæŋ,ˈklæŋ,[True],[True]
+2027,P3Y6M0DT0H0M0S,Spann,ˈʃpɑn,ˈspan,[True],[True]
+2027,P3Y6M0DT0H0M0S,Telefon,ˈtələfoːn,ˈtələfoːn,"[True, False, False]","[True, False, False]"
+2027,P3Y6M0DT0H0M0S,Jong,ˈjoŋ,ˈjoŋ,[True],[True]
+2027,P3Y6M0DT0H0M0S,Taass,ˈtaːs,ˈtaːs,[True],[True]
+2027,P3Y6M0DT0H0M0S,Kaz,ˈkaːʦ,ˈkaːʦ,[True],[True]
+2027,P3Y6M0DT0H0M0S,Schwanz,ˈʃwɑnʦ,ˈʃwɑnʦ,[True],[True]
+2027,P3Y6M0DT0H0M0S,Hues,ˈhuəs,ˈhuəs,[True],[True]
+2027,P3Y6M0DT0H0M0S,Tromm,ˈtʀom,ˈtʀom,[True],[True]
+2027,P3Y6M0DT0H0M0S,Motorrad,ˈmotoʀaːt,ˈmotoʀaːt,"[True, False, False]","[True, False, False]"
+2027,P3Y6M0DT0H0M0S,Schleek,ˈʃleːk,ˈsleːk,[True],[True]
+2027,P3Y6M0DT0H0M0S,Zitroun,ʦɪˈtʀəʊn,ʦɪˈtʀəʊn,"[False, True]","[False, True]"
+2027,P3Y6M0DT0H0M0S,Nascht,ˈnɑʃt,ˈnast,[True],[True]
+2027,P3Y6M0DT0H0M0S,Ruʦch,ˈʀutʃ,ˈʀʊtsbaːn,[True],"[True, False]"
+2027,P3Y6M0DT0H0M0S,Becher,ˈbæɕɐ,ˈbɛsər,"[True, False]","[True, False]"
+2027,P3Y6M0DT0H0M0S,Bréif,ˈbʀɜɪf,ˈbʀɜɪf,[True],[True]
+2027,P3Y6M0DT0H0M0S,Zebra,ˈʦeːbʀaː,ˈʦeːbʀaː,"[True, False]","[True, False]"
+2027,P3Y6M0DT0H0M0S,Knäpp,ˈknæp,ˈknæp,[True],[True]
+2027,P3Y6M0DT0H0M0S,dräi,ˈdʀæːɪ,ˈdʀæːɪ,[True],[True]
+2027,P3Y6M0DT0H0M0S,Fësch,ˈfəʃ,ˈfəs,[True],[True]
+2027,P3Y6M0DT0H0M0S,Mëllech,ˈmələɕ,ˈmələs,"[True, False]","[True, False]"
+2027,P3Y6M0DT0H0M0S,Police,ˈpolɪs,ˈpolɪs,"[True, False]","[True, False]"
+2027,P3Y6M0DT0H0M0S,Krokodill,kʀɔkoˈdɪl,kʀɔkoˈdɪl,"[False, False, True]","[False, False, True]"
+2027,P3Y6M0DT0H0M0S,Fläsch,ˈflæʃ,ˈflæs,[True],[True]
+2027,P3Y6M0DT0H0M0S,Elefant,ələˈfɑnt,ələˈfɑnt,"[False, False, True]","[False, False, True]"
+2027,P3Y6M0DT0H0M0S,Blumm,ˈblum,ˈblum,[True],[True]
+2027,P3Y6M0DT0H0M0S,Gespenst,gəˈʃpænst,gəˈspɛnst,"[False, True]","[False, True]"
+2027,P3Y6M0DT0H0M0S,Draach,ˈdʀaːx,ˈdʀaːx,[True],[True]
+2027,P3Y6M0DT0H0M0S,Banane,bɑˈnɑn,bɑˈnɑn,"[False, True]","[False, True]"
+2027,P3Y6M0DT0H0M0S,Bagger,ˈbɑgɐ,ˈbɑgɐ,"[True, False]","[True, False]"
+2027,P3Y6M0DT0H0M0S,giel,ˈgiəl,ˈgiəl,[True],[True]
+2027,P3Y6M0DT0H0M0S,gréng,ˈgʀeŋ,ˈgʀeŋ,[True],[True]
+2027,P3Y6M0DT0H0M0S,Gebuerʦdag,gəˈbuːɐʦdaːx,gəˈbuːɐʦdaːx,"[False, True, False]","[False, True, False]"
+2027,P3Y6M0DT0H0M0S,Jackett,ˈʒɑkæt,ˈzakæt,"[True, False]","[True, False]"
+2027,P3Y6M0DT0H0M0S,Rank,ˈʀɑŋk,ˈʀɑŋk,[True],[True]
+2027,P3Y6M0DT0H0M0S,Bild,ˈbilt,ˈbilt,[True],[True]
+2027,P3Y6M0DT0H0M0S,Päiperlek,ˈpæːɪpɐlek,ˈpæːɪpɐlek,"[True, False, False]","[True, False, False]"
+2027,P3Y6M0DT0H0M0S,Trampolin,ˈtʀɑmpoːlɪn,ˈtʀɑmpoːlɪn,"[True, False, False]","[True, False, False]"
+2027,P3Y6M0DT0H0M0S,Trottinette,ˈtʀotɪnæt,ˈtʀotɪnæt,"[True, False, False]","[True, False, False]"
+2027,P3Y6M0DT0H0M0S,Bänk,ˈbæŋk,ˈbæŋk,[True],[True]
+2027,P3Y6M0DT0H0M0S,Buch,ˈbux,ˈbux,[True],[True]
+2027,P3Y6M0DT0H0M0S,Sprëtz,ˈʃpʀəʦ,ˈspʀəʦ,[True],[True]
+2027,P3Y6M0DT0H0M0S,Jeeër,ˈjeːɐ,ˈjeːɐ,[True],[True]
+2027,P3Y6M0DT0H0M0S,Schëff,ˈʃəf,ˈʃəf,[True],[True]
+2027,P3Y6M0DT0H0M0S,Glas,ˈglaːs,ˈglaːs,[True],[True]
+2027,P3Y6M0DT0H0M0S,Auto,ˈɑʊto,ˈɑʊto,"[True, False]","[True, False]"
+2027,P3Y6M0DT0H0M0S,blo,ˈbloː,ˈbloː,[True],[True]
+2027,P3Y6M0DT0H0M0S,Schwäin,ˈʃwæːɪn,ˈswæɪn,[True],[True]
+2027,P3Y6M0DT0H0M0S,Sak,ˈzaːk,ˈzaːk,[True],[True]
+2027,P3Y6M0DT0H0M0S,Plooschter,ˈploːʃtɐ,ˈploːstər,"[True, False]","[True, False]"
+2027,P3Y6M0DT0H0M0S,Trakter,ˈtʀɑktɐ,ˈtʀɑktɐ,"[True, False]","[True, False]"
+2027,P3Y6M0DT0H0M0S,Schaf,ˈʃaːf,ˈʃaːf,[True],[True]
+2027,P3Y6M0DT0H0M0S,Apel,ˈaːpəl,ˈaːpəl,"[True, False]","[True, False]"
+2027,P3Y6M0DT0H0M0S,Zaang,ˈʦaːŋ,ˈʦaːŋ,[True],[True]
+2027,P3Y6M0DT0H0M0S,Schéier,ˈʃɜɪɐ,ˈsɜɪər,[True],[True]
+2027,P3Y6M0DT0H0M0S,Cadeau,ˈkɑdoː,ˈkɑdoː,"[True, False]","[True, False]"
+2027,P3Y6M0DT0H0M0S,Fënster,ˈfənstɐ,ˈfənstɐ,"[True, False]","[True, False]"
+2027,P3Y6M0DT0H0M0S,Brëll,ˈbʀəl,ˈbʀəl,[True],[True]
+2027,P3Y6M0DT0H0M0S,Gras,ˈgʀaːs,ˈgʀaːs,[True],[True]
+2027,P3Y6M0DT0H0M0S,Schlaang,ˈʃlaːŋ,ˈslaːŋ,[True],[True]
+2027,P3Y6M0DT0H0M0S,Hex,ˈhæks,ˈhæks,[True],[True]
+2027,P3Y6M0DT0H0M0S,Fräsch,ˈfʀæʃ,ˈfʀæs,[True],[True]
+2027,P3Y6M0DT0H0M0S,Quak,ˈkwaːk,ˈkwaːk,[True],[True]
+2027,P3Y6M0DT0H0M0S,Zwerg,ˈʦwɛʁɕ,ˈʦwæχs,[True],[True]
+2027,P3Y6M0DT0H0M0S,Päerd,ˈpɛːɐt,ˈpɛːɐt,[True],[True]
+2027,P3Y6M0DT0H0M0S,Wipp,ˈvip,ˈvip,[True],[True]
+2027,P3Y6M0DT0H0M0S,Noss,ˈnos,ˈnos,[True],[True]
+2027,P3Y6M0DT0H0M0S,Giraff,ʒɪˈʀɑf,zɪˈʀaf,"[False, True]","[False, True]"
+2027,P3Y6M0DT0H0M0S,Kuerf,ˈkuəf,ˈkuəf,[True],[True]
+2027,P3Y6M0DT0H0M0S,Schlëssel,ˈʃləsəl,ˈʃləsəl,"[True, False]","[True, False]"
+2027,P3Y6M0DT0H0M0S,Dusch,ˈdʊʃ,ˈdʊʃ,[True],[True]
+2027,P3Y6M0DT0H0M0S,Gittar,ˈgitaːʁ,ˈgitaːʁ,"[True, False]","[True, False]"
+2027,P3Y6M0DT0H0M0S,Waasser,ˈvaːsɐ,ˈvaːsɐ,"[True, False]","[True, False]"
+2027,P3Y6M0DT0H0M0S,Schmier,ˈʃmiːɐ,ˈʃmiːɐ,[True],[True]
+2027,P3Y6M0DT0H0M0S,Luʦch,ˈlutʃ,ˈlʊts,[True],[True]
+2027,P3Y6M0DT0H0M0S,Papagei,ˈpɑpagɑɪ,ˈpɑpagɑɪ,"[True, False, False]","[True, False, False]"
+2027,P3Y6M0DT0H0M0S,Spaghetti,ʃpɑˈgætɪ,ʃpɑˈgætɪ,"[False, True, False]","[False, True, False]"
+1002,P3Y6M0DT0H0M0S,Banane,bɑˈnɑn,bɑˈnɑn,"[False, True]","[False, True]"
+1002,P3Y6M0DT0H0M0S,Posch,ˈpoʃ,ˈpɔs,[True],[True]
+1002,P3Y6M0DT0H0M0S,Forschett,ˈfɔʁʃæt,ˈfɔχsæt,"[True, False]","[True, False]"
+1002,P3Y6M0DT0H0M0S,Hand,ˈhɑnt,ˈhɑnt,[True],[True]
+1002,P3Y6M0DT0H0M0S,Lut,ˈluːt,ˈluːt,[True],[True]
+1002,P3Y6M0DT0H0M0S,Sonn,ˈzon,ˈʃɔn,[True],[True]
+1002,P3Y6M0DT0H0M0S,Stull,ˈʃtul,ˈʃtul,[True],[True]
+1002,P3Y6M0DT0H0M0S,Plover,ˈploːvɐ,ˈploːvɐ,"[True, False]","[True, False]"
+1002,P3Y6M0DT0H0M0S,Haus,ˈhaːʊs,ˈhaːʊs,[True],[True]
+1002,P3Y6M0DT0H0M0S,rout,ˈʀəʊt,ˈʀəʊt,[True],[True]
+1002,P3Y6M0DT0H0M0S,kleng,ˈklæŋ,ˈklæŋ,[True],[True]
+1002,P3Y6M0DT0H0M0S,Taucher,ˈtɑʊxɐ,ˈtɑʊxɐ,"[True, False]","[True, False]"
+1002,P3Y6M0DT0H0M0S,Telefon,ˈtələfoːn,ˈtələfoːn,"[True, False, False]","[True, False, False]"
+1002,P3Y6M0DT0H0M0S,Jong,ˈjoŋ,ˈjoŋ,[True],[True]
+1002,P3Y6M0DT0H0M0S,Spann,ˈʃpɑn,ˈʃpɑn,[True],[True]
+1002,P3Y6M0DT0H0M0S,Kaz,ˈkaːʦ,ˈkaːʦ,[True],[True]
+1002,P3Y6M0DT0H0M0S,Hues,ˈhuəs,ˈhuəs,[True],[True]
+1002,P3Y6M0DT0H0M0S,Schwanz,ˈʃwɑnʦ,ˈʃwɑnʦ,[True],[True]
+1002,P3Y6M0DT0H0M0S,Taass,ˈtaːs,ˈtaːs,[True],[True]
+1002,P3Y6M0DT0H0M0S,Tromm,ˈtʀom,ˈtʀom,[True],[True]
+1002,P3Y6M0DT0H0M0S,Motorrad,ˈmotoʀaːt,ˈmotoʀaːt,"[True, False, False]","[True, False, False]"
+1002,P3Y6M0DT0H0M0S,Schleek,ˈʃleːk,ˈsleːk,[True],[True]
+1002,P3Y6M0DT0H0M0S,Zitroun,ʦɪˈtʀəʊn,sɪˈtʀəʊn,"[False, True]","[False, True]"
+1002,P3Y6M0DT0H0M0S,Nascht,ˈnɑʃt,ˈnɑʃt,[True],[True]
+1002,P3Y6M0DT0H0M0S,Becher,ˈbæɕɐ,ˈbɛsər,"[True, False]","[True, False]"
+1002,P3Y6M0DT0H0M0S,Ruʦch,ˈʀutʃ,ˈʀutʃ,[True],[True]
+1002,P3Y6M0DT0H0M0S,Zebra,ˈʦeːbʀaː,ˈʦeːbʀaː,"[True, False]","[True, False]"
+1002,P3Y6M0DT0H0M0S,Bréif,ˈbʀɜɪf,ˈbʀɜɪf,[True],[True]
+1002,P3Y6M0DT0H0M0S,Mëllech,ˈmələɕ,ˈmələɕ,"[True, False]","[True, False]"
+1002,P3Y6M0DT0H0M0S,Fësch,ˈfəʃ,ˈfəs,[True],[True]
+1002,P3Y6M0DT0H0M0S,Knäpp,ˈknæp,ˈkæpt,[True],[True]
+1002,P3Y6M0DT0H0M0S,dräi,ˈdʀæːɪ,ˈaæɪ,[True],[True]
+1002,P3Y6M0DT0H0M0S,Police,ˈpolɪs,ˈpolɪs,"[True, False]","[True, False]"
+1002,P3Y6M0DT0H0M0S,Fläsch,ˈflæʃ,ˈflæs,[True],[True]
+1002,P3Y6M0DT0H0M0S,Waasser,ˈvaːsɐ,ˈvaːsɐ,"[True, False]","[True, False]"
+1002,P3Y6M0DT0H0M0S,Krokodill,kʀɔkoˈdɪl,kʀɔkoˈdɪl,"[False, False, True]","[False, False, True]"
+1002,P3Y6M0DT0H0M0S,gréng,ˈgʀeŋ,ˈgʀeŋ,[True],[True]
+1002,P3Y6M0DT0H0M0S,Blumm,ˈblum,ˈblum,[True],[True]
+1002,P3Y6M0DT0H0M0S,Elefant,ələˈfɑnt,ələˈfɑnt,"[False, False, True]","[False, False, True]"
+1002,P3Y6M0DT0H0M0S,Gespenst,gəˈʃpænst,dəˈʃpɛnst,"[False, True]","[False, True]"
+1002,P3Y6M0DT0H0M0S,Bagger,ˈbɑgɐ,ˈbɑgɐ,"[True, False]","[True, False]"
+1002,P3Y6M0DT0H0M0S,giel,ˈgiəl,ˈgiəl,[True],[True]
+1002,P3Y6M0DT0H0M0S,Draach,ˈdʀaːx,ˈdʀaːx,[True],[True]
+1002,P3Y6M0DT0H0M0S,Gebuerʦdag,gəˈbuːɐʦdaːx,ˈbuarʦdaːχ,"[False, True, False]","[True, False]"
+1002,P3Y6M0DT0H0M0S,Jackett,ˈʒɑkæt,ˈʒɑkæt,"[True, False]","[True, False]"
+1002,P3Y6M0DT0H0M0S,Rank,ˈʀɑŋk,ˈʀɑŋk,[True],[True]
+1002,P3Y6M0DT0H0M0S,Bild,ˈbilt,ˈbilt,[True],[True]
+1002,P3Y6M0DT0H0M0S,Päiperlek,ˈpæːɪpɐlek,ˈpæːɪpɐlek,"[True, False, False]","[True, False, False]"
+1002,P3Y6M0DT0H0M0S,Trampolin,ˈtʀɑmpoːlɪn,ˈʀɑmpɔlɪn,"[True, False, False]","[True, False, False]"
+1002,P3Y6M0DT0H0M0S,Bänk,ˈbæŋk,ˈbæŋk,[True],[True]
+1002,P3Y6M0DT0H0M0S,Trottinette,ˈtʀotɪnæt,ˈʀɔtɪnæt,"[True, False, False]","[True, False, False]"
+1002,P3Y6M0DT0H0M0S,Jeeër,ˈjeːɐ,ˈjeːɐ,[True],[True]
+1002,P3Y6M0DT0H0M0S,Buch,ˈbux,ˈbʊk,[True],[True]
+1002,P3Y6M0DT0H0M0S,Sprëtz,ˈʃpʀəʦ,ˈʃpʀəʦ,[True],[True]
+1002,P3Y6M0DT0H0M0S,Schëff,ˈʃəf,ˈʃəf,[True],[True]
+1002,P3Y6M0DT0H0M0S,Glas,ˈglaːs,ˈglaːs,[True],[True]
+1002,P3Y6M0DT0H0M0S,Auto,ˈɑʊto,ˈɑʊto,"[True, False]","[True, False]"
+1002,P3Y6M0DT0H0M0S,blo,ˈbloː,ˈbloː,[True],[True]
+1002,P3Y6M0DT0H0M0S,Schwäin,ˈʃwæːɪn,ˈʃwæːɪn,[True],[True]
+1002,P3Y6M0DT0H0M0S,Sak,ˈzaːk,ˈzaːk,[True],[True]
+1002,P3Y6M0DT0H0M0S,Plooschter,ˈploːʃtɐ,ˈploːʃtɐ,"[True, False]","[True, False]"
+1002,P3Y6M0DT0H0M0S,Trakter,ˈtʀɑktɐ,ˈʀaktər,"[True, False]","[True, False]"
+1002,P3Y6M0DT0H0M0S,Schaf,ˈʃaːf,ˈʃaːf,[True],[True]
+1002,P3Y6M0DT0H0M0S,Apel,ˈaːpəl,ˈaːpəl,"[True, False]","[True, False]"
+1002,P3Y6M0DT0H0M0S,Zaang,ˈʦaːŋ,ˈsaːŋ,[True],[True]
+1002,P3Y6M0DT0H0M0S,Schéier,ˈʃɜɪɐ,ˈʃɜɪɐ,[True],[True]
+1002,P3Y6M0DT0H0M0S,Cadeau,ˈkɑdoː,ˈkɑdoː,"[True, False]","[True, False]"
+1002,P3Y6M0DT0H0M0S,Fënster,ˈfənstɐ,ˈfənstɐ,"[True, False]","[True, False]"
+1002,P3Y6M0DT0H0M0S,Brëll,ˈbʀəl,ˈbʀəl,[True],[True]
+1002,P3Y6M0DT0H0M0S,Schlaang,ˈʃlaːŋ,ˈʃlaːŋ,[True],[True]
+1002,P3Y6M0DT0H0M0S,Gras,ˈgʀaːs,ˈʀaʃ,[True],[True]
+1002,P3Y6M0DT0H0M0S,Hex,ˈhæks,ˈhæks,[True],[True]
+1002,P3Y6M0DT0H0M0S,Zwerg,ˈʦwɛʁɕ,ˈʃwæχɕ,[True],[True]
+1002,P3Y6M0DT0H0M0S,Fräsch,ˈfʀæʃ,ˈfʀæʃ,[True],[True]
+1002,P3Y6M0DT0H0M0S,Quak,ˈkwaːk,ˈkwaːk,[True],[True]
+1002,P3Y6M0DT0H0M0S,Päerd,ˈpɛːɐt,ˈpɛːɐt,[True],[True]
+1002,P3Y6M0DT0H0M0S,Wipp,ˈvip,ˈvip,[True],[True]
+1002,P3Y6M0DT0H0M0S,Giraff,ʒɪˈʀɑf,ʒɪˈʀɑf,"[False, True]","[False, True]"
+1002,P3Y6M0DT0H0M0S,Noss,ˈnos,ˈnɔʃ,[True],[True]
+1002,P3Y6M0DT0H0M0S,Schlëssel,ˈʃləsəl,ˈʃləʃəl,"[True, False]","[True, False]"
+1002,P3Y6M0DT0H0M0S,Kuerf,ˈkuəf,ˈkuəf,[True],[True]
+1002,P3Y6M0DT0H0M0S,Dusch,ˈdʊʃ,ˈdʊʃ,[True],[True]
+1002,P3Y6M0DT0H0M0S,Gittar,ˈgitaːʁ,ˈgitaːʁ,"[True, False]","[True, False]"
+1002,P3Y6M0DT0H0M0S,Spaghetti,ʃpɑˈgætɪ,ʃpɑˈgætɪ,"[False, True, False]","[False, True, False]"
+1002,P3Y6M0DT0H0M0S,Schmier,ˈʃmiːɐ,ˈʃmiːɐ,[True],[True]
+1002,P3Y6M0DT0H0M0S,Luʦch,ˈlutʃ,ˈlutʃ,[True],[True]
+1002,P3Y6M0DT0H0M0S,Papagei,ˈpɑpagɑɪ,ˈpɑpagɑɪ,"[True, False, False]","[True, False, False]"
+2008,P3Y3M0DT0H0M0S,Waasser,ˈvaːsɐ,ˈvaːsɐ,"[True, False]","[True, False]"
+2008,P3Y3M0DT0H0M0S,Hand,ˈhɑnt,ˈhɛn,[True],[True]
+2008,P3Y3M0DT0H0M0S,Forschett,ˈfɔʁʃæt,ˈfɔʁʃæt,"[True, False]","[True, False]"
+2008,P3Y3M0DT0H0M0S,Posch,ˈpoʃ,ˈpoʃ,[True],[True]
+2008,P3Y3M0DT0H0M0S,Lut,ˈluːt,ˈluːt,[True],[True]
+2008,P3Y3M0DT0H0M0S,Sonn,ˈzon,ˈzon,[True],[True]
+2008,P3Y3M0DT0H0M0S,Plover,ˈploːvɐ,ˈploːvɐ,"[True, False]","[True, False]"
+2008,P3Y3M0DT0H0M0S,Stull,ˈʃtul,ˈʃtul,[True],[True]
+2008,P3Y3M0DT0H0M0S,rout,ˈʀəʊt,ˈʀəʊt,[True],[True]
+2008,P3Y3M0DT0H0M0S,kleng,ˈklæŋ,ˈklæŋ,[True],[True]
+2008,P3Y3M0DT0H0M0S,Taucher,ˈtɑʊxɐ,ˈtɑʊxɐ,"[True, False]","[True, False]"
+2008,P3Y3M0DT0H0M0S,Haus,ˈhaːʊs,ˈhaːʊs,[True],[True]
+2008,P3Y3M0DT0H0M0S,Jong,ˈjoŋ,ˈjoŋ,[True],[True]
+2008,P3Y3M0DT0H0M0S,Telefon,ˈtələfoːn,ˈtələfɔ,"[True, False, False]","[True, False, False]"
+2008,P3Y3M0DT0H0M0S,Spann,ˈʃpɑn,ˈʃpɑn,[True],[True]
+2008,P3Y3M0DT0H0M0S,Taass,ˈtaːs,ˈtaːs,[True],[True]
+2008,P3Y3M0DT0H0M0S,Kaz,ˈkaːʦ,ˈkaːʦ,[True],[True]
+2008,P3Y3M0DT0H0M0S,Schwanz,ˈʃwɑnʦ,ˈʃwɑnʦ,[True],[True]
+2008,P3Y3M0DT0H0M0S,Hues,ˈhuəs,ˈhuəs,[True],[True]
+2008,P3Y3M0DT0H0M0S,Tromm,ˈtʀom,ˈtʀom,[True],[True]
+2008,P3Y3M0DT0H0M0S,Motorrad,ˈmotoʀaːt,ˈmotoʀaːt,"[True, False, False]","[True, False, False]"
+2008,P3Y3M0DT0H0M0S,Ruʦch,ˈʀutʃ,ˈʀutʃ,[True],[True]
+2008,P3Y3M0DT0H0M0S,Nascht,ˈnɑʃt,naʃ,[True],[False]
+2008,P3Y3M0DT0H0M0S,Zitroun,ʦɪˈtʀəʊn,ʦɪˈtʀəʊn,"[False, True]","[False, True]"
+2008,P3Y3M0DT0H0M0S,Schleek,ˈʃleːk,ˈʃleːk,[True],[True]
+2008,P3Y3M0DT0H0M0S,Becher,ˈbæɕɐ,ˈbæɕɐ,"[True, False]","[True, False]"
+2008,P3Y3M0DT0H0M0S,Zebra,ˈʦeːbʀaː,ˈʦeːbʀaː,"[True, False]","[True, False]"
+2008,P3Y3M0DT0H0M0S,Bréif,ˈbʀɜɪf,ˈbʀɜɪf,[True],[True]
+2008,P3Y3M0DT0H0M0S,Mëllech,ˈmələɕ,ˈmələɕ,"[True, False]","[True, False]"
+2008,P3Y3M0DT0H0M0S,Fësch,ˈfəʃ,ˈfəʃ,[True],[True]
+2008,P3Y3M0DT0H0M0S,Knäpp,ˈknæp,ˈknæp,[True],[True]
+2008,P3Y3M0DT0H0M0S,dräi,ˈdʀæːɪ,ˈdʀæːɪ,[True],[True]
+2008,P3Y3M0DT0H0M0S,Krokodill,kʀɔkoˈdɪl,kʀɔkoˈdɪl,"[False, False, True]","[False, False, True]"
+2008,P3Y3M0DT0H0M0S,Fläsch,ˈflæʃ,ˈflæʃ,[True],[True]
+2008,P3Y3M0DT0H0M0S,Police,ˈpolɪs,ˈpolɪs,"[True, False]","[True, False]"
+2008,P3Y3M0DT0H0M0S,gréng,ˈgʀeŋ,bʀeŋ,[True],[False]
+2008,P3Y3M0DT0H0M0S,Gespenst,gəˈʃpænst,gəˈʃpɛns,"[False, True]","[False, True]"
+2008,P3Y3M0DT0H0M0S,Elefant,ələˈfɑnt,ələˈfɑnt,"[False, False, True]","[False, False, True]"
+2008,P3Y3M0DT0H0M0S,Bagger,ˈbɑgɐ,ˈbɑgɐ,"[True, False]","[True, False]"
+2008,P3Y3M0DT0H0M0S,Banane,bɑˈnɑn,bɑˈnɑn,"[False, True]","[False, True]"
+2008,P3Y3M0DT0H0M0S,Draach,ˈdʀaːx,ˈdʀaːx,[True],[True]
+2008,P3Y3M0DT0H0M0S,Blumm,ˈblum,ˈblum,[True],[True]
+2008,P3Y3M0DT0H0M0S,giel,ˈgiəl,ˈgiəl,[True],[True]
+2008,P3Y3M0DT0H0M0S,Gebuerʦdag,gəˈbuːɐʦdaːx,gəˈbuːɐʦdaːx,"[False, True, False]","[False, True, False]"
+2008,P3Y3M0DT0H0M0S,Jackett,ˈʒɑkæt,ˈʒɑkæt,"[True, False]","[True, False]"
+2008,P3Y3M0DT0H0M0S,Päiperlek,ˈpæːɪpɐlek,ˈpæːɪpɐlek,"[True, False, False]","[True, False, False]"
+2008,P3Y3M0DT0H0M0S,Bild,ˈbilt,ˈbilt,[True],[True]
+2008,P3Y3M0DT0H0M0S,Rank,ˈʀɑŋk,ˈʀɑŋk,[True],[True]
+2008,P3Y3M0DT0H0M0S,Trottinette,ˈtʀotɪnæt,ˈtʀotɪnæt,"[True, False, False]","[True, False, False]"
+2008,P3Y3M0DT0H0M0S,Trampolin,ˈtʀɑmpoːlɪn,ˈtʀɑmpoːlɪn,"[True, False, False]","[True, False, False]"
+2008,P3Y3M0DT0H0M0S,Bänk,ˈbæŋk,ˈbæŋk,[True],[True]
+2008,P3Y3M0DT0H0M0S,Jeeër,ˈjeːɐ,ˈjeːɐ,[True],[True]
+2008,P3Y3M0DT0H0M0S,Sprëtz,ˈʃpʀəʦ,ˈʃpʀəʦ,[True],[True]
+2008,P3Y3M0DT0H0M0S,Buch,ˈbux,ˈbux,[True],[True]
+2008,P3Y3M0DT0H0M0S,Glas,ˈglaːs,ˈglaːs,[True],[True]
+2008,P3Y3M0DT0H0M0S,Schëff,ˈʃəf,ˈʃəf,[True],[True]
+2008,P3Y3M0DT0H0M0S,Auto,ˈɑʊto,ˈɑʊto,"[True, False]","[True, False]"
+2008,P3Y3M0DT0H0M0S,blo,ˈbloː,ˈbloː,[True],[True]
+2008,P3Y3M0DT0H0M0S,Schwäin,ˈʃwæːɪn,ˈʃwæːɪn,[True],[True]
+2008,P3Y3M0DT0H0M0S,Sak,ˈzaːk,ˈzaːk,[True],[True]
+2008,P3Y3M0DT0H0M0S,Schaf,ˈʃaːf,ˈfaːʃ,[True],[True]
+2008,P3Y3M0DT0H0M0S,Trakter,ˈtʀɑktɐ,ˈtʀɑktɐ,"[True, False]","[True, False]"
+2008,P3Y3M0DT0H0M0S,Brëll,ˈbʀəl,ˈbʀəl,[True],[True]
+2008,P3Y3M0DT0H0M0S,Plooschter,ˈploːʃtɐ,ˈploːʃtɐ,"[True, False]","[True, False]"
+2008,P3Y3M0DT0H0M0S,Schéier,ˈʃɜɪɐ,ˈʃɜɪɐ,[True],[True]
+2008,P3Y3M0DT0H0M0S,Zaang,ˈʦaːŋ,ˈsaːŋ,[True],[True]
+2008,P3Y3M0DT0H0M0S,Apel,ˈaːpəl,ˈaːpəl,"[True, False]","[True, False]"
+2008,P3Y3M0DT0H0M0S,Fënster,ˈfənstɐ,ˈfənstɐ,"[True, False]","[True, False]"
+2008,P3Y3M0DT0H0M0S,Cadeau,ˈkɑdoː,ˈkɑdoː,"[True, False]","[True, False]"
+2008,P3Y3M0DT0H0M0S,Schlaang,ˈʃlaːŋ,ˈʃlaːŋ,[True],[True]
+2008,P3Y3M0DT0H0M0S,Gras,ˈgʀaːs,ˈgʀaːs,[True],[True]
+2008,P3Y3M0DT0H0M0S,Zwerg,ˈʦwɛʁɕ,ˈʦwɛʁɕ,[True],[True]
+2008,P3Y3M0DT0H0M0S,Fräsch,ˈfʀæʃ,ˈfʀæʃ,[True],[True]
+2008,P3Y3M0DT0H0M0S,Quak,ˈkwaːk,ˈkwaːk,[True],[True]
+2008,P3Y3M0DT0H0M0S,Hex,ˈhæks,ˈhæks,[True],[True]
+2008,P3Y3M0DT0H0M0S,Päerd,ˈpɛːɐt,ˈpɛːɐt,[True],[True]
+2008,P3Y3M0DT0H0M0S,Wipp,ˈvip,ˈvip,[True],[True]
+2008,P3Y3M0DT0H0M0S,Giraff,ʒɪˈʀɑf,ʒɪˈʀɑf,"[False, True]","[False, True]"
+2008,P3Y3M0DT0H0M0S,Noss,ˈnos,ˈnos,[True],[True]
+2008,P3Y3M0DT0H0M0S,Schlëssel,ˈʃləsəl,ˈʃləsəl,"[True, False]","[True, False]"
+2008,P3Y3M0DT0H0M0S,Kuerf,ˈkuəf,ˈkuəf,[True],[True]
+2008,P3Y3M0DT0H0M0S,Gittar,ˈgitaːʁ,ˈgitaːʁ,"[True, False]","[True, False]"
+2008,P3Y3M0DT0H0M0S,Dusch,ˈdʊʃ,ˈdʊʃ,[True],[True]
+2008,P3Y3M0DT0H0M0S,Spaghetti,ʃpɑˈgætɪ,ʃpɑˈgætɪ,"[False, True, False]","[False, True, False]"
+2008,P3Y3M0DT0H0M0S,Schmier,ˈʃmiːɐ,ˈʃmiːɐ,[True],[True]
+2008,P3Y3M0DT0H0M0S,Luʦch,ˈlutʃ,ˈlutʃ,[True],[True]
+2008,P3Y3M0DT0H0M0S,Papagei,ˈpɑpagɑɪ,ˈpɑpagɑɪ,"[True, False, False]","[True, False, False]"
+2015,P3Y3M0DT0H0M0S,Spaghetti,ʃpɑˈgætɪ,ʃpɑˈgætɪ,"[False, True, False]","[False, True, False]"
+2015,P3Y3M0DT0H0M0S,Trottinette,ˈtʀotɪnæt,ˈtʀotɪnæt,"[True, False, False]","[True, False, False]"
+2015,P3Y3M0DT0H0M0S,Hand,ˈhɑnt,ˈhɑnt,[True],[True]
+2015,P3Y3M0DT0H0M0S,Forschett,ˈfɔʁʃæt,ˈfɔkʃæt,"[True, False]","[True, False]"
+2015,P3Y3M0DT0H0M0S,Posch,ˈpoʃ,ˈpoʃ,[True],[True]
+2015,P3Y3M0DT0H0M0S,Lut,ˈluːt,ˈluːt,[True],[True]
+2015,P3Y3M0DT0H0M0S,Stull,ˈʃtul,ˈʃtul,[True],[True]
+2015,P3Y3M0DT0H0M0S,Plover,ˈploːvɐ,ˈploːvɐ,"[True, False]","[True, False]"
+2015,P3Y3M0DT0H0M0S,Sonn,ˈzon,ˈzon,[True],[True]
+2015,P3Y3M0DT0H0M0S,Taucher,ˈtɑʊxɐ,ˈtɑʊxɐ,"[True, False]","[True, False]"
+2015,P3Y3M0DT0H0M0S,rout,ˈʀəʊt,ˈʀəʊt,[True],[True]
+2015,P3Y3M0DT0H0M0S,kleng,ˈklæŋ,ˈklæŋ,[True],[True]
+2015,P3Y3M0DT0H0M0S,Spann,ˈʃpɑn,ˈʃpɑn,[True],[True]
+2015,P3Y3M0DT0H0M0S,Haus,ˈhaːʊs,ˈhaːʊs,[True],[True]
+2015,P3Y3M0DT0H0M0S,Telefon,ˈtələfoːn,ˈtələfoːn,"[True, False, False]","[True, False, False]"
+2015,P3Y3M0DT0H0M0S,Jong,ˈjoŋ,ˈjoŋ,[True],[True]
+2015,P3Y3M0DT0H0M0S,Kaz,ˈkaːʦ,ˈtaːʦ,[True],[True]
+2015,P3Y3M0DT0H0M0S,Schwanz,ˈʃwɑnʦ,ˈswɑnʦ,[True],[True]
+2015,P3Y3M0DT0H0M0S,Hues,ˈhuəs,ˈhuəs,[True],[True]
+2015,P3Y3M0DT0H0M0S,Taass,ˈtaːs,ˈtaːs,[True],[True]
+2015,P3Y3M0DT0H0M0S,Tromm,ˈtʀom,ˈtʀom,[True],[True]
+2015,P3Y3M0DT0H0M0S,Luʦch,ˈlutʃ,ˈʟʊts,[True],[True]
+2015,P3Y3M0DT0H0M0S,Motorrad,ˈmotoʀaːt,ˈmotoʀaːt,"[True, False, False]","[True, False, False]"
+2015,P3Y3M0DT0H0M0S,Schleek,ˈʃleːk,ˈsleːk,[True],[True]
+2015,P3Y3M0DT0H0M0S,Zitroun,ʦɪˈtʀəʊn,sɪˈtʀəʊn,"[False, True]","[False, True]"
+2015,P3Y3M0DT0H0M0S,Ruʦch,ˈʀutʃ,ˈʀʊtʃˈaːn,[True],"[True, True]"
+2015,P3Y3M0DT0H0M0S,Nascht,ˈnɑʃt,ˈnɑʃt,[True],[True]
+2015,P3Y3M0DT0H0M0S,Becher,ˈbæɕɐ,ˈbæɕɐ,"[True, False]","[True, False]"
+2015,P3Y3M0DT0H0M0S,Waasser,ˈvaːsɐ,ˈvaːsɐ,"[True, False]","[True, False]"
+2015,P3Y3M0DT0H0M0S,Zebra,ˈʦeːbʀaː,ˈseːbʀa,"[True, False]","[True, False]"
+2015,P3Y3M0DT0H0M0S,Bréif,ˈbʀɜɪf,ˈbʀɜɪf,[True],[True]
+2015,P3Y3M0DT0H0M0S,Knäpp,ˈknæp,ˈknæp,[True],[True]
+2015,P3Y3M0DT0H0M0S,dräi,ˈdʀæːɪ,ˈdʀæːɪ,[True],[True]
+2015,P3Y3M0DT0H0M0S,Fësch,ˈfəʃ,fəs,[True],[False]
+2015,P3Y3M0DT0H0M0S,Mëllech,ˈmələɕ,ˈmələɕ,"[True, False]","[True, False]"
+2015,P3Y3M0DT0H0M0S,Police,ˈpolɪs,ˈpolɪs,"[True, False]","[True, False]"
+2015,P3Y3M0DT0H0M0S,Fläsch,ˈflæʃ,ˈflæʃ,[True],[True]
+2015,P3Y3M0DT0H0M0S,Krokodill,kʀɔkoˈdɪl,kʀɔkoˈdɪl,"[False, False, True]","[False, False, True]"
+2015,P3Y3M0DT0H0M0S,gréng,ˈgʀeŋ,ˈgʀeŋ,[True],[True]
+2015,P3Y3M0DT0H0M0S,Gespenst,gəˈʃpænst,deːʃt,"[False, True]",[False]
+2015,P3Y3M0DT0H0M0S,Blumm,ˈblum,ˈblum,[True],[True]
+2015,P3Y3M0DT0H0M0S,Elefant,ələˈfɑnt,ələˈfɑnt,"[False, False, True]","[False, False, True]"
+2015,P3Y3M0DT0H0M0S,Draach,ˈdʀaːx,ʀaːχ,[True],[False]
+2015,P3Y3M0DT0H0M0S,Banane,bɑˈnɑn,bɑˈnɑn,"[False, True]","[False, True]"
+2015,P3Y3M0DT0H0M0S,Bagger,ˈbɑgɐ,ˈbɑgɐ,"[True, False]","[True, False]"
+2015,P3Y3M0DT0H0M0S,giel,ˈgiəl,diəl,[True],[False]
+2015,P3Y3M0DT0H0M0S,Jackett,ˈʒɑkæt,ˈʒɑkæt,"[True, False]","[True, False]"
+2015,P3Y3M0DT0H0M0S,Gebuerʦdag,gəˈbuːɐʦdaːx,gəˈbuːɐʦdaːx,"[False, True, False]","[False, True, False]"
+2015,P3Y3M0DT0H0M0S,Päiperlek,ˈpæːɪpɐlek,ˈpæːɪpɐlek,"[True, False, False]","[True, False, False]"
+2015,P3Y3M0DT0H0M0S,Bild,ˈbilt,ˈbilt,[True],[True]
+2015,P3Y3M0DT0H0M0S,Rank,ˈʀɑŋk,ˈʀɑŋk,[True],[True]
+2015,P3Y3M0DT0H0M0S,blo,ˈbloː,ˈbloː,[True],[True]
+2015,P3Y3M0DT0H0M0S,Schwäin,ˈʃwæːɪn,wæːɪn,[True],[False]
+2015,P3Y3M0DT0H0M0S,Trampolin,ˈtʀɑmpoːlɪn,ˈʀampolɪn,"[True, False, False]","[True, False, False]"
+2015,P3Y3M0DT0H0M0S,Bänk,ˈbæŋk,ˈbæŋk,[True],[True]
+2015,P3Y3M0DT0H0M0S,Jeeër,ˈjeːɐ,ˈjeːɐ,[True],[True]
+2015,P3Y3M0DT0H0M0S,Sprëtz,ˈʃpʀəʦ,pʀəʦ,[True],[False]
+2015,P3Y3M0DT0H0M0S,Buch,ˈbux,ˈbux,[True],[True]
+2015,P3Y3M0DT0H0M0S,Glas,ˈglaːs,ˈglaːs,[True],[True]
+2015,P3Y3M0DT0H0M0S,Schëff,ˈʃəf,ˈʃəf,[True],[True]
+2015,P3Y3M0DT0H0M0S,Auto,ˈɑʊto,ˈɑʊto,"[True, False]","[True, False]"
+2015,P3Y3M0DT0H0M0S,Sak,ˈzaːk,ˈzaːk,[True],[True]
+2015,P3Y3M0DT0H0M0S,Plooschter,ˈploːʃtɐ,ˈploːʃtɐ,"[True, False]","[True, False]"
+2015,P3Y3M0DT0H0M0S,Trakter,ˈtʀɑktɐ,ʀaktər,"[True, False]","[False, False]"
+2015,P3Y3M0DT0H0M0S,Schaf,ˈʃaːf,ˈʃaːf,[True],[True]
+2015,P3Y3M0DT0H0M0S,Apel,ˈaːpəl,ˈaːpəl,"[True, False]","[True, False]"
+2015,P3Y3M0DT0H0M0S,Schéier,ˈʃɜɪɐ,ˈʃɜɪɐ,[True],[True]
+2015,P3Y3M0DT0H0M0S,Zaang,ˈʦaːŋ,ˈʦaːŋ,[True],[True]
+2015,P3Y3M0DT0H0M0S,Cadeau,ˈkɑdoː,ˈkɑdoː,"[True, False]","[True, False]"
+2015,P3Y3M0DT0H0M0S,Fënster,ˈfənstɐ,ˈfənstɐ,"[True, False]","[True, False]"
+2015,P3Y3M0DT0H0M0S,Brëll,ˈbʀəl,ˈbʀəl,[True],[True]
+2015,P3Y3M0DT0H0M0S,Gras,ˈgʀaːs,ˈgʀaːs,[True],[True]
+2015,P3Y3M0DT0H0M0S,Schlaang,ˈʃlaːŋ,slɑːŋ,[True],[False]
+2015,P3Y3M0DT0H0M0S,Zwerg,ˈʦwɛʁɕ,wæχʃ,[True],[False]
+2015,P3Y3M0DT0H0M0S,Fräsch,ˈfʀæʃ,ʀæʃ,[True],[False]
+2015,P3Y3M0DT0H0M0S,Quak,ˈkwaːk,ˈkwaːk,[True],[True]
+2015,P3Y3M0DT0H0M0S,Hex,ˈhæks,ˈhæks,[True],[True]
+2015,P3Y3M0DT0H0M0S,Päerd,ˈpɛːɐt,ˈpɛːɐt,[True],[True]
+2015,P3Y3M0DT0H0M0S,Wipp,ˈvip,ˈvip,[True],[True]
+2015,P3Y3M0DT0H0M0S,Giraff,ʒɪˈʀɑf,ʒɪˈʀɑf,"[False, True]","[False, True]"
+2015,P3Y3M0DT0H0M0S,Noss,ˈnos,ˈnɔs,[True],[True]
+2015,P3Y3M0DT0H0M0S,Schlëssel,ˈʃləsəl,ˈʃləsəl,"[True, False]","[True, False]"
+2015,P3Y3M0DT0H0M0S,Kuerf,ˈkuəf,ˈtuəf,[True],[True]
+2015,P3Y3M0DT0H0M0S,Gittar,ˈgitaːʁ,ˈdɪtaːr,"[True, False]","[True, False]"
+2015,P3Y3M0DT0H0M0S,Dusch,ˈdʊʃ,ˈdʊʃ,[True],[True]
+2015,P3Y3M0DT0H0M0S,Papagei,ˈpɑpagɑɪ,ˈpɑpagɑɪ,"[True, False, False]","[True, False, False]"
+2015,P3Y3M0DT0H0M0S,Schmier,ˈʃmiːɐ,ˈsmiər,[True],[True]
+1001,P4Y2M0DT0H0M0S,giel,ˈgiəl,ˈgiəl,[True],[True]
+1001,P4Y2M0DT0H0M0S,Hand,ˈhɑnt,ˈhɑnt,[True],[True]
+1001,P4Y2M0DT0H0M0S,Forschett,ˈfɔʁʃæt,ˈfɔʁʃæt,"[True, False]","[True, False]"
+1001,P4Y2M0DT0H0M0S,Posch,ˈpoʃ,ˈpoʃ,[True],[True]
+1001,P4Y2M0DT0H0M0S,Lut,ˈluːt,ˈluːt,[True],[True]
+1001,P4Y2M0DT0H0M0S,Sonn,ˈzon,ˈzon,[True],[True]
+1001,P4Y2M0DT0H0M0S,Plover,ˈploːvɐ,ˈpʊloːvar,"[True, False]","[True, False, False]"
+1001,P4Y2M0DT0H0M0S,Stull,ˈʃtul,ˈʃtul,[True],[True]
+1001,P4Y2M0DT0H0M0S,Taucher,ˈtɑʊxɐ,ˈtɑʊxɐ,"[True, False]","[True, False]"
+1001,P4Y2M0DT0H0M0S,Haus,ˈhaːʊs,ˈhaːʊs,[True],[True]
+1001,P4Y2M0DT0H0M0S,Jong,ˈjoŋ,ˈjoŋ,[True],[True]
+1001,P4Y2M0DT0H0M0S,rout,ˈʀəʊt,ˈʀəʊt,[True],[True]
+1001,P4Y2M0DT0H0M0S,kleng,ˈklæŋ,ˈklæŋ,[True],[True]
+1001,P4Y2M0DT0H0M0S,Telefon,ˈtələfoːn,ˈtələfoːn,"[True, False, False]","[True, False, False]"
+1001,P4Y2M0DT0H0M0S,Spann,ˈʃpɑn,ˈʃpɑn,[True],[True]
+1001,P4Y2M0DT0H0M0S,Taass,ˈtaːs,ˈtaːs,[True],[True]
+1001,P4Y2M0DT0H0M0S,Kaz,ˈkaːʦ,ˈtaːʦ,[True],[True]
+1001,P4Y2M0DT0H0M0S,Hues,ˈhuəs,ˈhuəs,[True],[True]
+1001,P4Y2M0DT0H0M0S,Schwanz,ˈʃwɑnʦ,ˈʃwɑnʦ,[True],[True]
+1001,P4Y2M0DT0H0M0S,Motorrad,ˈmotoʀaːt,ˈmotoʀaːt,"[True, False, False]","[True, False, False]"
+1001,P4Y2M0DT0H0M0S,Schleek,ˈʃleːk,ˈʃleːt,[True],[True]
+1001,P4Y2M0DT0H0M0S,Nascht,ˈnɑʃt,ˈnɑʃt,[True],[True]
+1001,P4Y2M0DT0H0M0S,Zitroun,ʦɪˈtʀəʊn,ʦɪˈtʀəʊn,"[False, True]","[False, True]"
+1001,P4Y2M0DT0H0M0S,Tromm,ˈtʀom,ˈtʀɔməl,[True],"[True, False]"
+1001,P4Y2M0DT0H0M0S,Becher,ˈbæɕɐ,ˈbæɕɐ,"[True, False]","[True, False]"
+1001,P4Y2M0DT0H0M0S,Ruʦch,ˈʀutʃ,ˈʀutʃ,[True],[True]
+1001,P4Y2M0DT0H0M0S,Waasser,ˈvaːsɐ,ˈvaːsɐ,"[True, False]","[True, False]"
+1001,P4Y2M0DT0H0M0S,Zebra,ˈʦeːbʀaː,ˈsebʀa,"[True, False]","[True, False]"
+1001,P4Y2M0DT0H0M0S,Bréif,ˈbʀɜɪf,ˈbʀɜɪf,[True],[True]
+1001,P4Y2M0DT0H0M0S,Knäpp,ˈknæp,ˈnæp,[True],[True]
+1001,P4Y2M0DT0H0M0S,dräi,ˈdʀæːɪ,ˈdʀæːɪ,[True],[True]
+1001,P4Y2M0DT0H0M0S,Fësch,ˈfəʃ,ˈfəʃ,[True],[True]
+1001,P4Y2M0DT0H0M0S,Mëllech,ˈmələɕ,ˈmələɕ,"[True, False]","[True, False]"
+1001,P4Y2M0DT0H0M0S,Krokodill,kʀɔkoˈdɪl,tʀɔtɪdɪl,"[False, False, True]","[False, False, False]"
+1001,P4Y2M0DT0H0M0S,Fläsch,ˈflæʃ,ˈflæʃ,[True],[True]
+1001,P4Y2M0DT0H0M0S,Police,ˈpolɪs,ˈpolɪs,"[True, False]","[True, False]"
+1001,P4Y2M0DT0H0M0S,gréng,ˈgʀeŋ,ˈdʀɪŋ,[True],[True]
+1001,P4Y2M0DT0H0M0S,Gespenst,gəˈʃpænst,ˈʃpɛnst,"[False, True]",[True]
+1001,P4Y2M0DT0H0M0S,Blumm,ˈblum,ˈblum,[True],[True]
+1001,P4Y2M0DT0H0M0S,Elefant,ələˈfɑnt,elefantən,"[False, False, True]","[False, False, False, False]"
+1001,P4Y2M0DT0H0M0S,Banane,bɑˈnɑn,bɑˈnɑn,"[False, True]","[False, True]"
+1001,P4Y2M0DT0H0M0S,Draach,ˈdʀaːx,ˈdʀaːx,[True],[True]
+1001,P4Y2M0DT0H0M0S,Bagger,ˈbɑgɐ,ˈbadər,"[True, False]","[True, False]"
+1001,P4Y2M0DT0H0M0S,Jackett,ˈʒɑkæt,ˈʒatæt,"[True, False]","[True, False]"
+1001,P4Y2M0DT0H0M0S,Gebuerʦdag,gəˈbuːɐʦdaːx,dəbuarʦdat,"[False, True, False]","[False, False, False]"
+1001,P4Y2M0DT0H0M0S,Päiperlek,ˈpæːɪpɐlek,ˈpaɪpərlet,"[True, False, False]","[True, False, False]"
+1001,P4Y2M0DT0H0M0S,Bild,ˈbilt,ˈbilt,[True],[True]
+1001,P4Y2M0DT0H0M0S,Rank,ˈʀɑŋk,ˈʀɑŋk,[True],[True]
+1001,P4Y2M0DT0H0M0S,Bänk,ˈbæŋk,ˈbæŋk,[True],[True]
+1001,P4Y2M0DT0H0M0S,Trampolin,ˈtʀɑmpoːlɪn,ˈtʀɑmpoːlɪn,"[True, False, False]","[True, False, False]"
+1001,P4Y2M0DT0H0M0S,Trottinette,ˈtʀotɪnæt,ˈtʀotɪnæt,"[True, False, False]","[True, False, False]"
+1001,P4Y2M0DT0H0M0S,Jeeër,ˈjeːɐ,ˈjeːɐ,[True],[True]
+1001,P4Y2M0DT0H0M0S,Sprëtz,ˈʃpʀəʦ,ˈʃpʀəʦ,[True],[True]
+1001,P4Y2M0DT0H0M0S,Buch,ˈbux,ˈbux,[True],[True]
+1001,P4Y2M0DT0H0M0S,Schëff,ˈʃəf,ˈʃəf,[True],[True]
+1001,P4Y2M0DT0H0M0S,Glas,ˈglaːs,ˈlaːχ,[True],[True]
+1001,P4Y2M0DT0H0M0S,Auto,ˈɑʊto,ˈɑʊto,"[True, False]","[True, False]"
+1001,P4Y2M0DT0H0M0S,blo,ˈbloː,ˈbloː,[True],[True]
+1001,P4Y2M0DT0H0M0S,Schwäin,ˈʃwæːɪn,ˈʃweːŋʃən,[True],"[True, False]"
+1001,P4Y2M0DT0H0M0S,Sak,ˈzaːk,ˈzat,[True],[True]
+1001,P4Y2M0DT0H0M0S,Plooschter,ˈploːʃtɐ,ˈploːʃtɐ,"[True, False]","[True, False]"
+1001,P4Y2M0DT0H0M0S,Trakter,ˈtʀɑktɐ,ˈtʀatər,"[True, False]","[True, False]"
+1001,P4Y2M0DT0H0M0S,Schaf,ˈʃaːf,ˈʃaːf,[True],[True]
+1001,P4Y2M0DT0H0M0S,Apel,ˈaːpəl,ˈaːpəl,"[True, False]","[True, False]"
+1001,P4Y2M0DT0H0M0S,Zaang,ˈʦaːŋ,ˈʦaːŋ,[True],[True]
+1001,P4Y2M0DT0H0M0S,Schéier,ˈʃɜɪɐ,ˈʃɜɪɐ,[True],[True]
+1001,P4Y2M0DT0H0M0S,Cadeau,ˈkɑdoː,ˈtado,"[True, False]","[True, False]"
+1001,P4Y2M0DT0H0M0S,Fënster,ˈfənstɐ,ˈfənstɐ,"[True, False]","[True, False]"
+1001,P4Y2M0DT0H0M0S,Brëll,ˈbʀəl,ˈbʀəl,[True],[True]
+1001,P4Y2M0DT0H0M0S,Schlaang,ˈʃlaːŋ,ˈʃlaːŋ,[True],[True]
+1001,P4Y2M0DT0H0M0S,Gras,ˈgʀaːs,ˈdʀaːs,[True],[True]
+1001,P4Y2M0DT0H0M0S,Zwerg,ˈʦwɛʁɕ,ˈʦwaeɕ,[True],[True]
+1001,P4Y2M0DT0H0M0S,Fräsch,ˈfʀæʃ,ˈfʀæʃ,[True],[True]
+1001,P4Y2M0DT0H0M0S,Hex,ˈhæks,ˈhæts,[True],[True]
+1001,P4Y2M0DT0H0M0S,Quak,ˈkwaːk,ˈtwaːt,[True],[True]
+1001,P4Y2M0DT0H0M0S,Wipp,ˈvip,ˈvip,[True],[True]
+1001,P4Y2M0DT0H0M0S,Päerd,ˈpɛːɐt,ˈpɛːɐt,[True],[True]
+1001,P4Y2M0DT0H0M0S,Noss,ˈnos,ˈnos,[True],[True]
+1001,P4Y2M0DT0H0M0S,Giraff,ʒɪˈʀɑf,ʒɪˈʀɑf,"[False, True]","[False, True]"
+1001,P4Y2M0DT0H0M0S,Kuerf,ˈkuəf,ˈtuarf,[True],[True]
+1001,P4Y2M0DT0H0M0S,Schlëssel,ˈʃləsəl,ˈʃləsəl,"[True, False]","[True, False]"
+1001,P4Y2M0DT0H0M0S,Dusch,ˈdʊʃ,ˈdʊʃ,[True],[True]
+1001,P4Y2M0DT0H0M0S,Gittar,ˈgitaːʁ,ˈditaːr,"[True, False]","[True, False]"
+1001,P4Y2M0DT0H0M0S,Papagei,ˈpɑpagɑɪ,ˈpapadaɪ,"[True, False, False]","[True, False, False]"
+1001,P4Y2M0DT0H0M0S,Luʦch,ˈlutʃ,ˈlutʃ,[True],[True]
+1001,P4Y2M0DT0H0M0S,Schmier,ˈʃmiːɐ,ˈʃmiːɐ,[True],[True]
+1001,P4Y2M0DT0H0M0S,Spaghetti,ʃpɑˈgætɪ,ʃpaˈdɛtɪ,"[False, True, False]","[False, True, False]"
+1003,P4Y3M0DT0H0M0S,Posch,ˈpoʃ,ˈpoʃ,[True],[True]
+1003,P4Y3M0DT0H0M0S,Forschett,ˈfɔʁʃæt,ˈfɔʁʃæt,"[True, False]","[True, False]"
+1003,P4Y3M0DT0H0M0S,Hand,ˈhɑnt,ˈhɑnt,[True],[True]
+1003,P4Y3M0DT0H0M0S,Lut,ˈluːt,ˈluːt,[True],[True]
+1003,P4Y3M0DT0H0M0S,Sonn,ˈzon,ˈzon,[True],[True]
+1003,P4Y3M0DT0H0M0S,Plover,ˈploːvɐ,ˈploːvɐ,"[True, False]","[True, False]"
+1003,P4Y3M0DT0H0M0S,Stull,ˈʃtul,ˈʃʊl,[True],[True]
+1003,P4Y3M0DT0H0M0S,Haus,ˈhaːʊs,ˈhaːʊs,[True],[True]
+1003,P4Y3M0DT0H0M0S,Taucher,ˈtɑʊxɐ,ˈtɑʊxɐ,"[True, False]","[True, False]"
+1003,P4Y3M0DT0H0M0S,rout,ˈʀəʊt,ˈʀəʊt,[True],[True]
+1003,P4Y3M0DT0H0M0S,kleng,ˈklæŋ,ˈklæŋ,[True],[True]
+1003,P4Y3M0DT0H0M0S,Jong,ˈjoŋ,ˈjoŋ,[True],[True]
+1003,P4Y3M0DT0H0M0S,Telefon,ˈtələfoːn,ˈtələfoːn,"[True, False, False]","[True, False, False]"
+1003,P4Y3M0DT0H0M0S,Spann,ˈʃpɑn,ˈʃpɑn,[True],[True]
+1003,P4Y3M0DT0H0M0S,Hues,ˈhuəs,ˈhuəs,[True],[True]
+1003,P4Y3M0DT0H0M0S,Kaz,ˈkaːʦ,ˈkaːʦ,[True],[True]
+1003,P4Y3M0DT0H0M0S,Taass,ˈtaːs,ˈtaːs,[True],[True]
+1003,P4Y3M0DT0H0M0S,Schwanz,ˈʃwɑnʦ,ˈʃwɑnʦ,[True],[True]
+1003,P4Y3M0DT0H0M0S,Tromm,ˈtʀom,ˈtʀom,[True],[True]
+1003,P4Y3M0DT0H0M0S,Spaghetti,ʃpɑˈgætɪ,ʃpɑˈgætɪ,"[False, True, False]","[False, True, False]"
+1003,P4Y3M0DT0H0M0S,Motorrad,ˈmotoʀaːt,ˈmotoʀaːt,"[True, False, False]","[True, False, False]"
+1003,P4Y3M0DT0H0M0S,Schleek,ˈʃleːk,ˈʃleːk,[True],[True]
+1003,P4Y3M0DT0H0M0S,Nascht,ˈnɑʃt,ˈnɑʃt,[True],[True]
+1003,P4Y3M0DT0H0M0S,Zitroun,ʦɪˈtʀəʊn,sɪtʀaʊn,"[False, True]","[False, False]"
+1003,P4Y3M0DT0H0M0S,Becher,ˈbæɕɐ,ˈbæɕɐ,"[True, False]","[True, False]"
+1003,P4Y3M0DT0H0M0S,Waasser,ˈvaːsɐ,ˈvaːsɐ,"[True, False]","[True, False]"
+1003,P4Y3M0DT0H0M0S,Bréif,ˈbʀɜɪf,ˈbʀɜɪf,[True],[True]
+1003,P4Y3M0DT0H0M0S,Ruʦch,ˈʀutʃ,ˈʀutʃ,[True],[True]
+1003,P4Y3M0DT0H0M0S,Zebra,ˈʦeːbʀaː,ˈʦeːbʀaː,"[True, False]","[True, False]"
+1003,P4Y3M0DT0H0M0S,Fësch,ˈfəʃ,ˈfəʃ,[True],[True]
+1003,P4Y3M0DT0H0M0S,Mëllech,ˈmələɕ,ˈmələɕ,"[True, False]","[True, False]"
+1003,P4Y3M0DT0H0M0S,Fläsch,ˈflæʃ,ˈflæʃ,[True],[True]
+1003,P4Y3M0DT0H0M0S,Knäpp,ˈknæp,ˈknap,[True],[True]
+1003,P4Y3M0DT0H0M0S,dräi,ˈdʀæːɪ,ˈʀæɪ,[True],[True]
+1003,P4Y3M0DT0H0M0S,Police,ˈpolɪs,ˈpɔlɪtsɪst,"[True, False]","[True, False, False]"
+1003,P4Y3M0DT0H0M0S,Krokodill,kʀɔkoˈdɪl,kʀɔkoˈdɪl,"[False, False, True]","[False, False, True]"
+1003,P4Y3M0DT0H0M0S,gréng,ˈgʀeŋ,ˈʀɪŋ,[True],[True]
+1003,P4Y3M0DT0H0M0S,Elefant,ələˈfɑnt,ələˈfɑnt,"[False, False, True]","[False, False, True]"
+1003,P4Y3M0DT0H0M0S,Blumm,ˈblum,ˈblum,[True],[True]
+1003,P4Y3M0DT0H0M0S,Gespenst,gəˈʃpænst,gəˈʃpænst,"[False, True]","[False, True]"
+1003,P4Y3M0DT0H0M0S,Draach,ˈdʀaːx,ˈdʀaːx,[True],[True]
+1003,P4Y3M0DT0H0M0S,Banane,bɑˈnɑn,bɑˈnɑn,"[False, True]","[False, True]"
+1003,P4Y3M0DT0H0M0S,Bagger,ˈbɑgɐ,ˈbɑgɐ,"[True, False]","[True, False]"
+1003,P4Y3M0DT0H0M0S,giel,ˈgiəl,ˈgiəl,[True],[True]
+1003,P4Y3M0DT0H0M0S,Gebuerʦdag,gəˈbuːɐʦdaːx,gəˈbuərsdaːχ,"[False, True, False]","[False, True, False]"
+1003,P4Y3M0DT0H0M0S,Jackett,ˈʒɑkæt,ˈʒɑkæt,"[True, False]","[True, False]"
+1003,P4Y3M0DT0H0M0S,Rank,ˈʀɑŋk,ˈʀɑŋk,[True],[True]
+1003,P4Y3M0DT0H0M0S,Bild,ˈbilt,ˈbilt,[True],[True]
+1003,P4Y3M0DT0H0M0S,Päiperlek,ˈpæːɪpɐlek,ˈpæːɪpɐlek,"[True, False, False]","[True, False, False]"
+1003,P4Y3M0DT0H0M0S,Bänk,ˈbæŋk,ˈbæŋk,[True],[True]
+1003,P4Y3M0DT0H0M0S,Trampolin,ˈtʀɑmpoːlɪn,ˈtʀɑmpoːlɪn,"[True, False, False]","[True, False, False]"
+1003,P4Y3M0DT0H0M0S,Trottinette,ˈtʀotɪnæt,ˈtʀotɪnæt,"[True, False, False]","[True, False, False]"
+1003,P4Y3M0DT0H0M0S,Buch,ˈbux,ˈbux,[True],[True]
+1003,P4Y3M0DT0H0M0S,Sprëtz,ˈʃpʀəʦ,ˈʃpʀəʦ,[True],[True]
+1003,P4Y3M0DT0H0M0S,Jeeër,ˈjeːɐ,ˈʒear,[True],[True]
+1003,P4Y3M0DT0H0M0S,Schëff,ˈʃəf,ˈʃəf,[True],[True]
+1003,P4Y3M0DT0H0M0S,Glas,ˈglaːs,ˈglaːs,[True],[True]
+1003,P4Y3M0DT0H0M0S,Auto,ˈɑʊto,ˈɑʊto,"[True, False]","[True, False]"
+1003,P4Y3M0DT0H0M0S,Schwäin,ˈʃwæːɪn,ˈʃwæːɪn,[True],[True]
+1003,P4Y3M0DT0H0M0S,Sak,ˈzaːk,ˈzaːk,[True],[True]
+1003,P4Y3M0DT0H0M0S,blo,ˈbloː,ˈbloː,[True],[True]
+1003,P4Y3M0DT0H0M0S,Plooschter,ˈploːʃtɐ,ˈploːʃtɐ,"[True, False]","[True, False]"
+1003,P4Y3M0DT0H0M0S,Trakter,ˈtʀɑktɐ,ˈkʀaktər,"[True, False]","[True, False]"
+1003,P4Y3M0DT0H0M0S,Schaf,ˈʃaːf,ˈʃaːf,[True],[True]
+1003,P4Y3M0DT0H0M0S,Apel,ˈaːpəl,ˈaːpəl,"[True, False]","[True, False]"
+1003,P4Y3M0DT0H0M0S,Zaang,ˈʦaːŋ,ˈʦaːŋ,[True],[True]
+1003,P4Y3M0DT0H0M0S,Schéier,ˈʃɜɪɐ,ˈʃɜɪɐ,[True],[True]
+1003,P4Y3M0DT0H0M0S,Cadeau,ˈkɑdoː,ˈkɑdoː,"[True, False]","[True, False]"
+1003,P4Y3M0DT0H0M0S,Fënster,ˈfənstɐ,ˈfənʃər,"[True, False]","[True, False]"
+1003,P4Y3M0DT0H0M0S,Brëll,ˈbʀəl,ˈbʀəl,[True],[True]
+1003,P4Y3M0DT0H0M0S,Gras,ˈgʀaːs,ˈgʀaːs,[True],[True]
+1003,P4Y3M0DT0H0M0S,Schlaang,ˈʃlaːŋ,ˈʃlaːŋ,[True],[True]
+1003,P4Y3M0DT0H0M0S,Hex,ˈhæks,ˈhæks,[True],[True]
+1003,P4Y3M0DT0H0M0S,Fräsch,ˈfʀæʃ,ˈfʀæʃ,[True],[True]
+1003,P4Y3M0DT0H0M0S,Zwerg,ˈʦwɛʁɕ,ˈswæχɕ,[True],[True]
+1003,P4Y3M0DT0H0M0S,Quak,ˈkwaːk,ˈkwaːk,[True],[True]
+1003,P4Y3M0DT0H0M0S,Päerd,ˈpɛːɐt,ˈpɛːɐt,[True],[True]
+1003,P4Y3M0DT0H0M0S,Wipp,ˈvip,ˈvip,[True],[True]
+1003,P4Y3M0DT0H0M0S,Giraff,ʒɪˈʀɑf,ʃɪˈʀaf,"[False, True]","[False, True]"
+1003,P4Y3M0DT0H0M0S,Noss,ˈnos,ˈnos,[True],[True]
+1003,P4Y3M0DT0H0M0S,Kuerf,ˈkuəf,ˈkuəf,[True],[True]
+1003,P4Y3M0DT0H0M0S,Schlëssel,ˈʃləsəl,ˈʃləsəl,"[True, False]","[True, False]"
+1003,P4Y3M0DT0H0M0S,Dusch,ˈdʊʃ,ˈdʊʃ,[True],[True]
+1003,P4Y3M0DT0H0M0S,Gittar,ˈgitaːʁ,ˈgitaːʁ,"[True, False]","[True, False]"
+1003,P4Y3M0DT0H0M0S,Schmier,ˈʃmiːɐ,ˈʃmiːɐ,[True],[True]
+1003,P4Y3M0DT0H0M0S,Luʦch,ˈlutʃ,ˈlutʃ,[True],[True]
+1003,P4Y3M0DT0H0M0S,Papagei,ˈpɑpagɑɪ,ˈpɑpagɑɪ,"[True, False, False]","[True, False, False]"
